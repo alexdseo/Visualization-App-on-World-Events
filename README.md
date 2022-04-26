@@ -35,6 +35,7 @@ Making some cool maps about what is happening in Ukraine right now.
 ### 4. Name Entities Recognition and analysis
 
 - Run Named Entity Recognition on GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com//github/alexdseo/Visualization-App-on-World-Events/blob/master/NER.ipynb)
+	- Input: `cleaned_text` (see Google Drive for all files; sample on GitHub)
 
 ### 5. Geolocation
 
