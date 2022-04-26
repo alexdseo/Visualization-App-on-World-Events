@@ -38,6 +38,6 @@ Making some cool maps about what is happening in Ukraine right now.
 
 ### 5. Geolocation
 
-- Run Geoparsing on GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com//github/alexdseo/Visualization-App-on-World-Events/blob/master/Geoparsing.ipynb)
+- Run Geoparsing on GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com//github/alexdseo/Visualization-App-on-World-Events/blob/master/geoparsing.ipynb)
 
 ### 6. Web page
