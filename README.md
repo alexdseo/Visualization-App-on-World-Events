@@ -50,4 +50,4 @@ Making some cool maps about what is happening in Ukraine right now.
 ### 6. Web page
 
 `index.html`
-	- `world_map.html` and `ukr_map.html` embedded
+- `world_map.html` and `ukr_map.html` embedded
