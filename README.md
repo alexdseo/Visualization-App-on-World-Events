@@ -6,6 +6,8 @@ Making some cool maps about what is happening in Ukraine right now.
 
 ## Workflow
 
+[View live website](https://alexdseo.github.io/Visualization-App-on-World-Events/)
+
 [View Google Drive](https://drive.google.com/drive/folders/19LlSZPHSBr38YvoHUiRmO_9do4jt-lCX?usp=sharing)
 
 ### 1. Preprocess images
@@ -36,6 +38,7 @@ Making some cool maps about what is happening in Ukraine right now.
 
 - Run Named Entity Recognition on GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com//github/alexdseo/Visualization-App-on-World-Events/blob/master/NER.ipynb)
 	- Input: `cleaned_text` (see Google Drive for all files; sample on GitHub)
+	- Output: charts in Notebook and on website
 
 ### 5. Geolocation
 
@@ -45,8 +48,8 @@ Making some cool maps about what is happening in Ukraine right now.
 - Run Dynamic Mapping on GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com//github/alexdseo/Visualization-App-on-World-Events/blob/master/dynamic_maps.ipynb)
 	- Requires Mapbox API token
 	- Input: `geoparse_clean.csv`
-	- Output: world map and Ukraine map generated in Notebook
+	- Output: world map and Ukraine map in Notebook and on website
 
 ### 6. Web page
 
-[See our live website here.](https://auderoy.github.io/russo-ukrainian-war)
+[See our live website here and interact with our maps!](https://alexdseo.github.io/Visualization-App-on-World-Events)
