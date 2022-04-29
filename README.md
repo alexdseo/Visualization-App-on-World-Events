@@ -49,5 +49,4 @@ Making some cool maps about what is happening in Ukraine right now.
 
 ### 6. Web page
 
-`index.html`
-- `world_map.html` and `ukr_map.html` embedded
+[See our live website here.](https://auderoy.github.io/russo-ukrainian-war)
