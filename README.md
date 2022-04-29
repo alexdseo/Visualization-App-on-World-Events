@@ -42,5 +42,11 @@ Making some cool maps about what is happening in Ukraine right now.
 - Run Geoparsing on GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com//github/alexdseo/Visualization-App-on-World-Events/blob/master/geoparsing.ipynb)
 	- Input: `cleaned_text` (see Google Drive for all files; sample on GitHub)
 	- Output: `geoparse.csv`
+- Run Dynamic Mapping on GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com//github/alexdseo/Visualization-App-on-World-Events/blob/master/dynamic_maps.ipynb)
+	- Requires Mapbox API token
+	- Input: `geoparse_clean.csv`
+	- Output: world map and Ukraine map generated in Notebook
 
 ### 6. Web page
+
+[See our live website here.](https://auderoy.github.io/russo-ukrainian-war)
