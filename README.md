@@ -6,8 +6,6 @@ Making some cool maps about what is happening in Ukraine right now.
 
 ## Workflow
 
-[View live website](https://alexdseo.github.io/Visualization-App-on-World-Events/)
-
 [View Google Drive](https://drive.google.com/drive/folders/19LlSZPHSBr38YvoHUiRmO_9do4jt-lCX?usp=sharing)
 
 ### 1. Preprocess images
