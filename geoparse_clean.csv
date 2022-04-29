@@ -1,0 +1,1986 @@
+Entity,Frequency,Entity Type,Year,Month,Day,Latitude,Longitude,Country,City,News Source
+Ukraine,129,GPE,2022,3,1,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,117,GPE,2022,3,1,64.6863136,97.7453061,Russia,,aljazeera
+United States,25,GPE,2022,3,1,39.7837304,-100.445882,United States,,aljazeera
+Moscow,23,GPE,2022,3,1,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Poland,8,GPE,2022,3,1,52.215933,19.134422,Poland,,aljazeera
+Belarus,6,GPE,2022,3,1,53.4250605,27.6971358,Belarus,,aljazeera
+Kharkiv,5,GPE,2022,3,1,49.9923181,36.2310146,Ukraine,Kharkiv,aljazeera
+Turkey,5,GPE,2022,3,1,38.9597594,34.9249653,Turkey,,aljazeera
+United States,4,GPE,2022,3,1,39.7837304,-100.445882,United States,,aljazeera
+Ukraine,4,GPE,2022,3,1,49.4871968,31.2718321,Ukraine,,aljazeera
+Geneva,4,GPE,2022,3,1,46.2017559,6.1466014,Switzerland,Geneva,aljazeera
+Kyiv,4,GPE,2022,3,1,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Kherson,3,GPE,2022,3,1,46.5421715,33.4079326,Ukraine,,aljazeera
+Mariupol,3,GPE,2022,3,1,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Germany,3,GPE,2022,3,1,51.0834196,10.4234469,Germany,,aljazeera
+United States,2,GPE,2022,3,1,39.7837304,-100.445882,United States,,aljazeera
+Georgia,2,GPE,2022,3,1,42.3154,43.3569,Georgia,,aljazeera
+Sweden,2,GPE,2022,3,1,59.6749712,14.5208584,Sweden,,aljazeera
+United Kingdom,2,GPE,2022,3,1,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Kyiv,8,LOC,2022,3,1,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Black Sea,5,LOC,2022,3,1,43.87280435,33.99381559,,,aljazeera
+Europe,4,LOC,2022,3,1,,,,,aljazeera
+Black Sea,3,LOC,2022,3,1,43.87280435,33.99381559,,,aljazeera
+Baltic Sea,1,LOC,2022,3,1,56,18,,,aljazeera
+Azov Sea,1,LOC,2022,3,1,46.196729,36.73570655,,,aljazeera
+Crimea,1,LOC,2022,3,1,45.28350435,34.20081878,Ukraine,,aljazeera
+Gan,1,LOC,2022,3,1,46.1068872,-0.7519873,France,,aljazeera
+Gulf of Mexico,1,LOC,2022,3,1,25,-90,,,aljazeera
+Arab Gulf,1,LOC,2022,3,1,,,,,aljazeera
+Crimea,1,LOC,2022,3,1,45.28350435,34.20081878,Ukraine,,aljazeera
+Russia,133,GPE,2022,3,2,64.6863136,97.7453061,Russia,,aljazeera
+Russia,91,GPE,2022,3,2,64.6863136,97.7453061,Russia,,aljazeera
+Moscow,35,GPE,2022,3,2,55.7504461,37.6174943,Russia,Moscow,aljazeera
+United States,21,GPE,2022,3,2,39.7837304,-100.445882,United States,,aljazeera
+Belarus,10,GPE,2022,3,2,53.4250605,27.6971358,Belarus,,aljazeera
+Kyiv,8,GPE,2022,3,2,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Ukraine,8,GPE,2022,3,2,49.4871968,31.2718321,Ukraine,,aljazeera
+Canada,5,GPE,2022,3,2,61.0666922,-107.991707,Canada,,aljazeera
+Romania,5,GPE,2022,3,2,45.9852129,24.6859225,Romania,,aljazeera
+Mariupol,5,GPE,2022,3,2,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Chernihiv,4,GPE,2022,3,2,51.272593,31.7417235,Ukraine,,aljazeera
+United Kingdom,4,GPE,2022,3,2,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Syria,4,GPE,2022,3,2,34.6401861,39.0494106,Syria,,aljazeera
+Kharkiv,4,GPE,2022,3,2,49.9923181,36.2310146,Ukraine,Kharkiv,aljazeera
+Japan,4,GPE,2022,3,2,36.5748441,139.2394179,Japan,Kiryu,aljazeera
+Chernobyl,3,GPE,2022,3,2,51.2705477,30.2195609,Ukraine,Chernobyl,aljazeera
+Poland,3,GPE,2022,3,2,52.215933,19.134422,Poland,,aljazeera
+Zhytomyr,3,GPE,2022,3,2,50.9080532,28.3867504,Ukraine,,aljazeera
+United States,3,GPE,2022,3,2,39.7837304,-100.445882,United States,,aljazeera
+Germany,3,GPE,2022,3,2,51.0834196,10.4234469,Germany,,aljazeera
+Kyiv,10,LOC,2022,3,2,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Black Sea,2,LOC,2022,3,2,43.87280435,33.99381559,,,aljazeera
+Brest,1,LOC,2022,3,2,48.3905283,-4.4860088,France,Brest,aljazeera
+Isaccea,1,LOC,2022,3,2,45.2721887,28.4571456,Romania,Isaccea,aljazeera
+Dnieper River,1,LOC,2022,3,2,48.828,34.091,Ukraine,,aljazeera
+Black Sea,1,LOC,2022,3,2,43.87280435,33.99381559,,,aljazeera
+Black  Sea,1,LOC,2022,3,2,43.87280435,33.99381559,,,aljazeera
+Azov Sea,1,LOC,2022,3,2,46.196729,36.73570655,,,aljazeera
+Indian Ocean,1,LOC,2022,3,2,-9.9999999,69.9999999,,,aljazeera
+Crimea,1,LOC,2022,3,2,45.28350435,34.20081878,Ukraine,,aljazeera
+Ukraine,123,GPE,2022,3,3,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,118,GPE,2022,3,3,64.6863136,97.7453061,Russia,,aljazeera
+Unites States,24,GPE,2022,3,3,39.7837304,-100.445882,United States,,aljazeera
+Moscow,20,GPE,2022,3,3,55.7504461,37.6174943,Russia,Moscow,aljazeera
+United Kingdom,7,GPE,2022,3,3,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Zaporizhzhia,7,GPE,2022,3,3,47.8507859,35.1182867,Ukraine,Zaporizhzhia,aljazeera
+France,6,GPE,2022,3,3,46.603354,1.8883335,France,,aljazeera
+Germany,6,GPE,2022,3,3,51.0834196,10.4234469,Germany,,aljazeera
+Ukraine,6,GPE,2022,3,3,49.4871968,31.2718321,Ukraine,,aljazeera
+Canada,4,GPE,2022,3,3,61.0666922,-107.991707,Canada,,aljazeera
+China,4,GPE,2022,3,3,35.000074,104.999927,China,,aljazeera
+Brussels,4,GPE,2022,3,3,50.8465573,4.351697,Belgium,Brussels,aljazeera
+Belarus,4,GPE,2022,3,3,53.4250605,27.6971358,Belarus,,aljazeera
+Enerhodar,4,GPE,2022,3,3,47.543552,34.622205,,,aljazeera
+Finland,3,GPE,2022,3,3,63.2467777,25.9209164,Finland,,aljazeera
+Russia,3,GPE,2022,3,3,64.6863136,97.7453061,Russia,,aljazeera
+Poland,3,GPE,2022,3,3,52.215933,19.134422,Poland,,aljazeera
+Romania,2,GPE,2022,3,3,45.9852129,24.6859225,Romania,,aljazeera
+Europe,16,LOC,2022,3,3,,,,,aljazeera
+Kyiv,4,LOC,2022,3,3,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Eastern Europe,1,LOC,2022,3,3,,,,,aljazeera
+Mykolayiv,1,LOC,2022,3,3,46.9380295,32.0626947,Ukraine,Mykolaiv,aljazeera
+Black Sea,1,LOC,2022,3,3,43.87280435,33.99381559,,,aljazeera
+Dnipro,1,LOC,2022,3,3,51.9191343,30.8243039,Ukraine,,aljazeera
+Russia,115,GPE,2022,3,4,64.6863136,97.7453061,Russia,,aljazeera
+Ukraine,109,GPE,2022,3,4,49.4871968,31.2718321,Ukraine,,aljazeera
+Moscow,23,GPE,2022,3,4,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Mariupol,18,GPE,2022,3,4,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+United States,18,GPE,2022,3,4,39.7837304,-100.445882,United States,,aljazeera
+Ukraine,11,GPE,2022,3,4,49.4871968,31.2718321,Ukraine,,aljazeera
+United Kingdom,11,GPE,2022,3,4,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Germany,9,GPE,2022,3,4,51.0834196,10.4234469,Germany,,aljazeera
+Poland,9,GPE,2022,3,4,52.215933,19.134422,Poland,,aljazeera
+Belarus,6,GPE,2022,3,4,53.4250605,27.6971358,Belarus,,aljazeera
+Lithuania,6,GPE,2022,3,4,55.3500003,23.7499997,Lithuania,,aljazeera
+London,5,GPE,2022,3,4,51.5073219,-0.1276474,United Kingdom,Westminster,aljazeera
+Zaporizhzhia,5,GPE,2022,3,4,47.8507859,35.1182867,Ukraine,Zaporizhzhia,aljazeera
+Turkey,4,GPE,2022,3,4,38.9597594,34.9249653,Turkey,,aljazeera
+Israel,4,GPE,2022,3,4,31.5313113,34.8667654,Israel,Lachish Regional Council,aljazeera
+Berlin,4,GPE,2022,3,4,52.5170365,13.3888599,Germany,Berlin,aljazeera
+Volnovakha,4,GPE,2022,3,4,47.5984285,37.4998511,Ukraine,,aljazeera
+Kherson,4,GPE,2022,3,4,46.5421715,33.4079326,Ukraine,,aljazeera
+Mariupol city,4,GPE,2022,3,4,47.1033841,37.64373578,Ukraine,Mariupol,aljazeera
+Singapore,4,GPE,2022,3,4,1.357107,103.8194992,Singapore,Singapore,aljazeera
+Europe,10,LOC,2022,3,4,,,,,aljazeera
+Kyiv,7,LOC,2022,3,4,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+North Sea,1,LOC,2022,3,4,56.74123355,2.891171717,,,aljazeera
+Ukraine,99,GPE,2022,3,5,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,71,GPE,2022,3,5,64.6863136,97.7453061,Russia,,aljazeera
+United States,19,GPE,2022,3,5,39.7837304,-100.445882,United States,,aljazeera
+Moscow,18,GPE,2022,3,5,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Mariupol,14,GPE,2022,3,5,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Poland,8,GPE,2022,3,5,52.215933,19.134422,Poland,,aljazeera
+Israel,6,GPE,2022,3,5,31.5313113,34.8667654,Israel,Lachish Regional Council,aljazeera
+United Kingdom,6,GPE,2022,3,5,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Vinnytsia,4,GPE,2022,3,5,48.8990315,28.516068,Ukraine,,aljazeera
+Iran,4,GPE,2022,3,5,32.6475314,54.5643516,Iran,,aljazeera
+Calais,4,GPE,2022,3,5,50.9524769,1.8538446,France,Calais,aljazeera
+China,4,GPE,2022,3,5,35.000074,104.999927,China,,aljazeera
+Canada,4,GPE,2022,3,5,61.0666922,-107.991707,Canada,,aljazeera
+Kyiv,3,GPE,2022,3,5,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Washington,3,GPE,2022,3,5,38.8950368,-77.0365427,United States,Washington,aljazeera
+Romania,3,GPE,2022,3,5,45.9852129,24.6859225,Romania,,aljazeera
+Venezuela,3,GPE,2022,3,5,8.0018709,-66.1109318,Venezuela,,aljazeera
+Berlin,2,GPE,2022,3,5,52.5170365,13.3888599,Germany,Berlin,aljazeera
+Belarus,2,GPE,2022,3,5,53.4250605,27.6971358,Belarus,,aljazeera
+Kyiv,5,LOC,2022,3,5,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,4,LOC,2022,3,5,,,,,aljazeera
+Irpin River,1,LOC,2022,3,5,50.5300778,30.2179137,Ukraine,,aljazeera
+Black Sea,1,LOC,2022,3,5,43.87280435,33.99381559,,,aljazeera
+Middle East,1,LOC,2022,3,5,,,,,aljazeera
+Africa,1,LOC,2022,3,5,,,,,aljazeera
+Ukraine,131,GPE,2022,3,6,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,124,GPE,2022,3,6,64.6863136,97.7453061,Russia,,aljazeera
+Moscow,28,GPE,2022,3,6,55.7504461,37.6174943,Russia,Moscow,aljazeera
+United States,27,GPE,2022,3,6,39.7837304,-100.445882,United States,,aljazeera
+United Kingdom,12,GPE,2022,3,6,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Belarus,12,GPE,2022,3,6,53.4250605,27.6971358,Belarus,,aljazeera
+Kyiv,8,GPE,2022,3,6,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Latvia,7,GPE,2022,3,6,56.8406494,24.7537645,Latvia,Ogresgala pagasts,aljazeera
+Poland,7,GPE,2022,3,6,52.215933,19.134422,Poland,,aljazeera
+Mariupol,7,GPE,2022,3,6,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+China,7,GPE,2022,3,6,35.000074,104.999927,China,,aljazeera
+Kharkiv,5,GPE,2022,3,6,49.9923181,36.2310146,Ukraine,Kharkiv,aljazeera
+Japan,4,GPE,2022,3,6,36.5748441,139.2394179,Japan,Kiryu,aljazeera
+Riga,3,GPE,2022,3,6,56.9493977,24.1051846,Latvia,Riga,aljazeera
+Germany,3,GPE,2022,3,6,51.0834196,10.4234469,Germany,,aljazeera
+Lithuania,3,GPE,2022,3,6,55.3500003,23.7499997,Lithuania,,aljazeera
+United States,3,GPE,2022,3,6,39.7837304,-100.445882,United States,,aljazeera
+Beijing,3,GPE,2022,3,6,39.906217,116.3912757,China,Beijing,aljazeera
+United Kingdom,2,GPE,2022,3,6,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Europe,9,LOC,2022,3,6,,,,,aljazeera
+Kyiv,8,LOC,2022,3,6,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Black Sea,2,LOC,2022,3,6,43.87280435,33.99381559,,,aljazeera
+Central Europe,1,LOC,2022,3,6,,,,,aljazeera
+Crimea,1,LOC,2022,3,6,45.28350435,34.20081878,Ukraine,,aljazeera
+Mariupol,1,LOC,2022,3,6,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Brest,1,LOC,2022,3,6,48.3905283,-4.4860088,France,Brest,aljazeera
+Azov Sea,1,LOC,2022,3,6,46.196729,36.73570655,,,aljazeera
+Pelosi,1,LOC,2022,3,6,42.049403,12.6254221,Italy,,aljazeera
+Ukraine,120,GPE,2022,3,7,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,108,GPE,2022,3,7,64.6863136,97.7453061,Russia,,aljazeera
+United States,26,GPE,2022,3,7,39.7837304,-100.445882,United States,,aljazeera
+Moscow,19,GPE,2022,3,7,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Mariupol,13,GPE,2022,3,7,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Poland,7,GPE,2022,3,7,52.215933,19.134422,Poland,,aljazeera
+United Kingdom,7,GPE,2022,3,7,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Germany,6,GPE,2022,3,7,51.0834196,10.4234469,Germany,,aljazeera
+Kyiv,6,GPE,2022,3,7,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Ukraine,6,GPE,2022,3,7,49.4871968,31.2718321,Ukraine,,aljazeera
+Belarus,5,GPE,2022,3,7,53.4250605,27.6971358,Belarus,,aljazeera
+Zaporizhzhia,4,GPE,2022,3,7,47.8507859,35.1182867,Ukraine,Zaporizhzhia,aljazeera
+China,4,GPE,2022,3,7,35.000074,104.999927,China,,aljazeera
+Japan,4,GPE,2022,3,7,36.5748441,139.2394179,Japan,Kiryu,aljazeera
+United States,3,GPE,2022,3,7,39.7837304,-100.445882,United States,,aljazeera
+Vatican,3,GPE,2022,3,7,41.903411,12.4528527,Vatican City,,aljazeera
+Russia,2,GPE,2022,3,7,52.5161051,13.3834149,Germany,Berlin,aljazeera
+Chernobyl,2,GPE,2022,3,7,51.2705477,30.2195609,Ukraine,Chernobyl,aljazeera
+Europe,12,LOC,2022,3,7,,,,,aljazeera
+Kyiv,11,LOC,2022,3,7,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Sumy,1,LOC,2022,3,7,50.90007875,34.80904073,Ukraine,Sumy,aljazeera
+Ukraine,146,GPE,2022,3,8,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,123,GPE,2022,3,8,64.6863136,97.7453061,Russia,,aljazeera
+United States,42,GPE,2022,3,8,39.7837304,-100.445882,United States,,aljazeera
+Moscow,28,GPE,2022,3,8,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Mariupol,23,GPE,2022,3,8,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+United Kingdom,16,GPE,2022,3,8,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Poland,12,GPE,2022,3,8,52.215933,19.134422,Poland,,aljazeera
+Chernobyl,10,GPE,2022,3,8,51.2705477,30.2195609,Ukraine,Chernobyl,aljazeera
+Belarus,9,GPE,2022,3,8,53.4250605,27.6971358,Belarus,,aljazeera
+Turkey,8,GPE,2022,3,8,38.9597594,34.9249653,Turkey,,aljazeera
+China,7,GPE,2022,3,8,35.000074,104.999927,China,,aljazeera
+Germany,6,GPE,2022,3,8,51.0834196,10.4234469,Germany,,aljazeera
+Zaporizhzhia,5,GPE,2022,3,8,47.8507859,35.1182867,Ukraine,Zaporizhzhia,aljazeera
+Kyiv,5,GPE,2022,3,8,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+United States,4,GPE,2022,3,8,39.7837304,-100.445882,United States,,aljazeera
+Canada,4,GPE,2022,3,8,61.0666922,-107.991707,Canada,,aljazeera
+Washington,4,GPE,2022,3,8,38.8950368,-77.0365427,United States,Washington,aljazeera
+Scotland,4,GPE,2022,3,8,56.7861112,-4.1140518,United Kingdom,,aljazeera
+Antalya,3,GPE,2022,3,8,36.9009641,30.6954846,Turkey,Antalya,aljazeera
+Kyiv,20,LOC,2022,3,8,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,10,LOC,2022,3,8,,,,,aljazeera
+Mariupol,1,LOC,2022,3,8,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Kharkiv,1,LOC,2022,3,8,49.9923181,36.2310146,Ukraine,Kharkiv,aljazeera
+Black Sea,1,LOC,2022,3,8,43.87280435,33.99381559,,,aljazeera
+Ukraine,122,GPE,2022,3,9,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,97,GPE,2022,3,9,64.6863136,97.7453061,Russia,,aljazeera
+United States,26,GPE,2022,3,9,39.7837304,-100.445882,United States,,aljazeera
+Mariupol,23,GPE,2022,3,9,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Moscow,19,GPE,2022,3,9,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Turkey,12,GPE,2022,3,9,38.9597594,34.9249653,Turkey,,aljazeera
+Chernobyl,11,GPE,2022,3,9,51.2705477,30.2195609,Ukraine,Chernobyl,aljazeera
+United Kingdom,7,GPE,2022,3,9,54.7023545,-3.2765753,United Kingdom,,aljazeera
+China,6,GPE,2022,3,9,35.000074,104.999927,China,,aljazeera
+Romania,4,GPE,2022,3,9,45.9852129,24.6859225,Romania,,aljazeera
+Kyiv,4,GPE,2022,3,9,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Washington,3,GPE,2022,3,9,38.8950368,-77.0365427,United States,Washington,aljazeera
+France,3,GPE,2022,3,9,46.603354,1.8883335,France,,aljazeera
+Poland,3,GPE,2022,3,9,52.215933,19.134422,Poland,,aljazeera
+Ukraine,3,GPE,2022,3,9,49.4871968,31.2718321,Ukraine,,aljazeera
+Beijing,3,GPE,2022,3,9,39.906217,116.3912757,China,Beijing,aljazeera
+Warsaw,3,GPE,2022,3,9,52.2319581,21.0067249,Poland,Warsaw,aljazeera
+Kyiv,10,LOC,2022,3,9,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,3,LOC,2022,3,9,,,,,aljazeera
+Mariupol,3,LOC,2022,3,9,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Middle East,2,LOC,2022,3,9,,,,,aljazeera
+Africa,2,LOC,2022,3,9,,,,,aljazeera
+Sumy,1,LOC,2022,3,9,50.90007875,34.80904073,Ukraine,Sumy,aljazeera
+Ukraine,161,GPE,2022,3,10,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,96,GPE,2022,3,10,64.6863136,97.7453061,Russia,,aljazeera
+United States,30,GPE,2022,3,10,39.7837304,-100.445882,United States,,aljazeera
+Moscow,28,GPE,2022,3,10,55.7504461,37.6174943,Russia,Moscow,aljazeera
+United Kingdom,16,GPE,2022,3,10,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Mariupol,15,GPE,2022,3,10,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Kyiv,9,GPE,2022,3,10,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Turkey,8,GPE,2022,3,10,38.9597594,34.9249653,Turkey,,aljazeera
+Volnovakha,6,GPE,2022,3,10,47.5984285,37.4998511,Ukraine,,aljazeera
+Lutsk,6,GPE,2022,3,10,50.7450733,25.320078,Ukraine,Lutsk,aljazeera
+Washington,5,GPE,2022,3,10,38.8950368,-77.0365427,United States,Washington,aljazeera
+Belarus,5,GPE,2022,3,10,53.4250605,27.6971358,Belarus,,aljazeera
+United States,4,GPE,2022,3,10,39.7837304,-100.445882,United States,,aljazeera
+China,4,GPE,2022,3,10,35.000074,104.999927,China,,aljazeera
+Chernobyl,4,GPE,2022,3,10,51.2705477,30.2195609,Ukraine,Chernobyl,aljazeera
+Ukraine,4,GPE,2022,3,10,49.4871968,31.2718321,Ukraine,,aljazeera
+Romania,4,GPE,2022,3,10,45.9852129,24.6859225,Romania,,aljazeera
+Germany,3,GPE,2022,3,10,51.0834196,10.4234469,Germany,,aljazeera
+Kyiv,11,LOC,2022,3,10,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,5,LOC,2022,3,10,,,,,aljazeera
+Novokodatsky District,1,LOC,2022,3,10,48.4889608,34.9391349,Ukraine,Dnipro,aljazeera
+Black Sea,1,LOC,2022,3,10,43.87280435,33.99381559,,,aljazeera
+Eastern Kharkiv,1,LOC,2022,3,10,49.9923181,36.2310146,Ukraine,Kharkiv,aljazeera
+Eastern Europe,1,LOC,2022,3,10,,,,,aljazeera
+Azov Sea,1,LOC,2022,3,10,46.196729,36.73570655,,,aljazeera
+Ukraine,93,GPE,2022,3,11,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,67,GPE,2022,3,11,64.6863136,97.7453061,Russia,,aljazeera
+United States,22,GPE,2022,3,11,39.7837304,-100.445882,United States,,aljazeera
+Mariupol,17,GPE,2022,3,11,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Moscow,14,GPE,2022,3,11,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Israel,6,GPE,2022,3,11,31.5313113,34.8667654,Israel,Lachish Regional Council,aljazeera
+Kyiv,5,GPE,2022,3,11,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Germany,5,GPE,2022,3,11,51.0834196,10.4234469,Germany,Unstrut-Hainich,aljazeera
+Belarus,5,GPE,2022,3,11,53.4250605,27.6971358,Belarus,,aljazeera
+Romania,4,GPE,2022,3,11,45.9852129,24.6859225,Romania,,aljazeera
+Italy,4,GPE,2022,3,11,42.6384261,12.674297,Italy,Terni,aljazeera
+Washington,4,GPE,2022,3,11,38.8950368,-77.0365427,United States,Washington,aljazeera
+France,3,GPE,2022,3,11,46.603354,1.8883335,France,,aljazeera
+Donetsk,3,GPE,2022,3,11,48.0158753,37.8013407,Ukraine,Donetsk,aljazeera
+Melitopol,3,GPE,2022,3,11,46.8400009,35.35786473,Ukraine,Melitopol,aljazeera
+Guatemala,3,GPE,2022,3,11,15.6871007,-90.12265453,Guatemala,,aljazeera
+Qatar,2,GPE,2022,3,11,25.3336984,51.2295295,Qatar,,aljazeera
+Paris,2,GPE,2022,3,11,48.8588897,2.320041022,France,,aljazeera
+Florence,2,GPE,2022,3,11,43.7698712,11.2555757,Italy,Florence,aljazeera
+Kyiv,17,LOC,2022,3,11,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,2,LOC,2022,3,11,,,,,aljazeera
+Middle East,2,LOC,2022,3,11,,,,,aljazeera
+Black Sea,1,LOC,2022,3,11,43.87280435,33.99381559,,,aljazeera
+Eastern Europe,1,LOC,2022,3,11,,,,,aljazeera
+Middle East,1,LOC,2022,3,11,,,,,aljazeera
+Ukraine,98,GPE,2022,3,12,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,53,GPE,2022,3,12,64.6863136,97.7453061,Russia,,aljazeera
+Mariupol,17,GPE,2022,3,12,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Moscow,11,GPE,2022,3,12,55.7504461,37.6174943,Russia,Moscow,aljazeera
+United States,10,GPE,2022,3,12,39.7837304,-100.445882,United States,,aljazeera
+China,7,GPE,2022,3,12,35.000074,104.999927,China,,aljazeera
+Italy,6,GPE,2022,3,12,42.6384261,12.674297,Italy,Terni,aljazeera
+Beijing,4,GPE,2022,3,12,39.906217,116.3912757,China,Beijing,aljazeera
+Chernobyl,4,GPE,2022,3,12,51.2705477,30.2195609,Ukraine,Chernobyl,aljazeera
+United Kingdom,4,GPE,2022,3,12,54.7023545,-3.2765753,United Kingdom,,aljazeera
+United States,3,GPE,2022,3,12,39.7837304,-100.445882,United States,,aljazeera
+Poland,3,GPE,2022,3,12,52.215933,19.134422,Poland,,aljazeera
+Turkey,3,GPE,2022,3,12,38.9597594,34.9249653,Turkey,,aljazeera
+Greece,3,GPE,2022,3,12,38.9953683,21.9877132,Greece,,aljazeera
+Rome,3,GPE,2022,3,12,41.8933203,12.4829321,Italy,Rome,aljazeera
+Kherson,3,GPE,2022,3,12,46.5421715,33.4079326,Ukraine,,aljazeera
+Qatar,3,GPE,2022,3,12,25.3336984,51.2295295,Qatar,,aljazeera
+Sweden,3,GPE,2022,3,12,59.6749712,14.5208584,Sweden,,aljazeera
+Kyiv,2,GPE,2022,3,12,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Luhansk,2,GPE,2022,3,12,49.2724587,38.9150477,Ukraine,,aljazeera
+Kyiv,6,LOC,2022,3,12,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,2,LOC,2022,3,12,,,,,aljazeera
+Black Sea,1,LOC,2022,3,12,43.87280435,33.99381559,,,aljazeera
+Ukraine,140,GPE,2022,3,13,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,99,GPE,2022,3,13,64.6863136,97.7453061,Russia,,aljazeera
+United States,17,GPE,2022,3,13,39.7837304,-100.445882,United States,,aljazeera
+China,17,GPE,2022,3,13,35.000074,104.999927,China,,aljazeera
+Moscow,12,GPE,2022,3,13,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Mariupol,8,GPE,2022,3,13,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Syria,7,GPE,2022,3,13,34.6401861,39.0494106,Syria,,aljazeera
+Donetsk,6,GPE,2022,3,13,48.0158753,37.8013407,Ukraine,Donetsk,aljazeera
+Chernobyl,6,GPE,2022,3,13,51.2705477,30.2195609,Ukraine,Chernobyl,aljazeera
+Turkey,5,GPE,2022,3,13,38.9597594,34.9249653,Turkey,,aljazeera
+United Kingdom,5,GPE,2022,3,13,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Bulgaria,4,GPE,2022,3,13,42.6073975,25.4856617,Bulgaria,,aljazeera
+United States,4,GPE,2022,3,13,39.7837304,-100.445882,United States,,aljazeera
+Kyiv,4,GPE,2022,3,13,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+France,4,GPE,2022,3,13,46.603354,1.8883335,France,,aljazeera
+Poland,4,GPE,2022,3,13,52.215933,19.134422,Poland,,aljazeera
+Beijing,3,GPE,2022,3,13,39.906217,116.3912757,China,Beijing,aljazeera
+Zaporizhzhia,3,GPE,2022,3,13,47.8507859,35.1182867,Ukraine,Zaporizhzhia,aljazeera
+Israel,3,GPE,2022,3,13,31.5313113,34.8667654,Israel,Lachish Regional Council,aljazeera
+Iran,3,GPE,2022,3,13,32.6475314,54.5643516,Iran,,aljazeera
+Kyiv,16,LOC,2022,3,13,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,2,LOC,2022,3,13,,,,,aljazeera
+Mariupol,1,LOC,2022,3,13,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Black Sea,1,LOC,2022,3,13,43.87280435,33.99381559,,,aljazeera
+Crimea,1,LOC,2022,3,13,45.28350435,34.20081878,Ukraine,,aljazeera
+Ukraine,163,GPE,2022,3,14,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,133,GPE,2022,3,14,64.6863136,97.7453061,Russia,,aljazeera
+China,36,GPE,2022,3,14,35.000074,104.999927,China,,aljazeera
+United States,30,GPE,2022,3,14,39.7837304,-100.445882,United States,,aljazeera
+Moscow,21,GPE,2022,3,14,55.7504461,37.6174943,Russia,Moscow,aljazeera
+United Kingdom,16,GPE,2022,3,14,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Mariupol,11,GPE,2022,3,14,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Syria,8,GPE,2022,3,14,34.6401861,39.0494106,Syria,,aljazeera
+Poland,7,GPE,2022,3,14,52.215933,19.134422,Poland,,aljazeera
+Hungary,5,GPE,2022,3,14,47.1817585,19.5060937,Hungary,Pusztavacs,aljazeera
+Belarus,5,GPE,2022,3,14,53.4250605,27.6971358,Belarus,,aljazeera
+Canada,5,GPE,2022,3,14,61.0666922,-107.991707,Canada,,aljazeera
+London,5,GPE,2022,3,14,51.5073219,-0.1276474,United Kingdom,Westminster,aljazeera
+Beijing,5,GPE,2022,3,14,39.906217,116.3912757,China,Beijing,aljazeera
+Chernobyl,4,GPE,2022,3,14,51.2705477,30.2195609,Ukraine,Chernobyl,aljazeera
+France,4,GPE,2022,3,14,46.603354,1.8883335,France,,aljazeera
+United States,4,GPE,2022,3,14,39.7837304,-100.445882,United States,,aljazeera
+Brussels,4,GPE,2022,3,14,50.8465573,4.351697,Belgium,Brussels,aljazeera
+Kyiv,4,GPE,2022,3,14,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Kyiv,21,LOC,2022,3,14,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,6,LOC,2022,3,14,,,,,aljazeera
+Dnipro,2,LOC,2022,3,14,51.9191343,30.8243039,Ukraine,,aljazeera
+Loire,1,LOC,2022,3,14,45.75385355,4.045473683,France,,aljazeera
+Kyiv,1,LOC,2022,3,14,,,,,aljazeera
+Bug River,1,LOC,2022,3,14,,,,,aljazeera
+Azov Sea,1,LOC,2022,3,14,46.196729,36.73570655,,,aljazeera
+Middle East,1,LOC,2022,3,14,,,,,aljazeera
+Ukraine,165,GPE,2022,3,15,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,103,GPE,2022,3,15,64.6863136,97.7453061,Russia,,aljazeera
+United States,30,GPE,2022,3,15,39.7837304,-100.445882,United States,,aljazeera
+Moscow,19,GPE,2022,3,15,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Kyiv,13,GPE,2022,3,15,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Poland,11,GPE,2022,3,15,52.215933,19.134422,Poland,,aljazeera
+Chernihiv,8,GPE,2022,3,15,51.272593,31.7417235,Ukraine,,aljazeera
+China,8,GPE,2022,3,15,35.000074,104.999927,China,,aljazeera
+Mariupol,7,GPE,2022,3,15,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Turkey,7,GPE,2022,3,15,38.9597594,34.9249653,Turkey,,aljazeera
+Japan,5,GPE,2022,3,15,36.5748441,139.2394179,Japan,Kiryu,aljazeera
+United Kingdom,5,GPE,2022,3,15,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Slovenia,5,GPE,2022,3,15,45.8133113,14.4808369,Slovenia,,aljazeera
+Taiwan,5,GPE,2022,3,15,23.9739374,120.9820179,Taiwan,,aljazeera
+Syria,4,GPE,2022,3,15,34.6401861,39.0494106,Syria,,aljazeera
+France,3,GPE,2022,3,15,46.603354,1.8883335,France,,aljazeera
+Russia,3,GPE,2022,3,15,64.6863136,97.7453061,Russia,,aljazeera
+Austria,3,GPE,2022,3,15,47.59397,14.12456,Austria,Stainach-Pürgg,aljazeera
+Brussels,3,GPE,2022,3,15,50.8465573,4.351697,Belgium,Brussels,aljazeera
+Kyiv,15,LOC,2022,3,15,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,4,LOC,2022,3,15,,,,,aljazeera
+Eastern Europe,1,LOC,2022,3,15,,,,,aljazeera
+Dnipro,1,LOC,2022,3,15,51.9191343,30.8243039,Ukraine,,aljazeera
+Black Sea,1,LOC,2022,3,15,43.87280435,33.99381559,,,aljazeera
+Ukraine,154,GPE,2022,3,16,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,105,GPE,2022,3,16,64.6863136,97.7453061,Russia,,aljazeera
+United States,23,GPE,2022,3,16,39.7837304,-100.445882,United States,,aljazeera
+Moscow,17,GPE,2022,3,16,55.7504461,37.6174943,Russia,Moscow,aljazeera
+United Kingdom,15,GPE,2022,3,16,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Mariupol,14,GPE,2022,3,16,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+China,12,GPE,2022,3,16,35.000074,104.999927,China,,aljazeera
+Belarus,8,GPE,2022,3,16,53.4250605,27.6971358,Belarus,,aljazeera
+India,8,GPE,2022,3,16,22.3511148,78.6677428,India,,aljazeera
+Germany,7,GPE,2022,3,16,51.0834196,10.4234469,Germany,,aljazeera
+France,6,GPE,2022,3,16,46.603354,1.8883335,France,,aljazeera
+Kyiv,6,GPE,2022,3,16,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Poland,6,GPE,2022,3,16,52.215933,19.134422,Poland,,aljazeera
+Hungary,6,GPE,2022,3,16,47.1817585,19.5060937,Hungary,Pusztavacs,aljazeera
+Turkey,6,GPE,2022,3,16,38.9597594,34.9249653,Turkey,,aljazeera
+Britain,5,GPE,2022,3,16,54.31536155,-1.918023495,United Kingdom,,aljazeera
+Chernihiv,5,GPE,2022,3,16,51.272593,31.7417235,Ukraine,,aljazeera
+Canada,5,GPE,2022,3,16,61.0666922,-107.991707,Canada,,aljazeera
+Washington,4,GPE,2022,3,16,38.8950368,-77.0365427,United States,Washington,aljazeera
+Europe,6,LOC,2022,3,16,,,,,aljazeera
+Mars,5,LOC,2022,3,16,45.022172,4.3221548,France,,aljazeera
+Kyiv,3,LOC,2022,3,16,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Black Sea,2,LOC,2022,3,16,43.87280435,33.99381559,,,aljazeera
+Black Sea,1,LOC,2022,3,16,43.87280435,33.99381559,,,aljazeera
+Ukraine,160,GPE,2022,3,17,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,119,GPE,2022,3,17,64.6863136,97.7453061,Russia,,aljazeera
+United States,30,GPE,2022,3,17,39.7837304,-100.445882,United States,,aljazeera
+Moscow,24,GPE,2022,3,17,55.7504461,37.6174943,Russia,Moscow,aljazeera
+United Kingdom,22,GPE,2022,3,17,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Mariupol,15,GPE,2022,3,17,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Italy,8,GPE,2022,3,17,42.6384261,12.674297,Italy,Terni,aljazeera
+Poland,8,GPE,2022,3,17,52.215933,19.134422,Poland,,aljazeera
+China,7,GPE,2022,3,17,35.000074,104.999927,China,,aljazeera
+Japan,6,GPE,2022,3,17,36.5748441,139.2394179,Japan,Kiryu,aljazeera
+Lviv,6,GPE,2022,3,17,49.841952,24.0315921,Ukraine,Lviv,aljazeera
+Bulgaria,5,GPE,2022,3,17,42.6073975,25.4856617,Bulgaria,,aljazeera
+Norway,4,GPE,2022,3,17,60.5000209,9.0999715,Norway,,aljazeera
+Slovakia,4,GPE,2022,3,17,48.7411522,19.4528646,Slovakia,Ľubietová,aljazeera
+Germany,4,GPE,2022,3,17,51.0834196,10.4234469,Germany,,aljazeera
+Australia,4,GPE,2022,3,17,-24.7761086,134.755,Australia,,aljazeera
+Kyiv,3,GPE,2022,3,17,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Beijing,3,GPE,2022,3,17,39.906217,116.3912757,China,Beijing,aljazeera
+Syria,3,GPE,2022,3,17,34.6401861,39.0494106,Syria,,aljazeera
+Kyiv,6,LOC,2022,3,17,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,2,LOC,2022,3,17,,,,,aljazeera
+Eastern Europe,2,LOC,2022,3,17,,,,,aljazeera
+Shale,1,LOC,2022,3,17,42.3659184,19.75758445,Albania,Shalë,aljazeera
+Azov Sea,1,LOC,2022,3,17,46.196729,36.73570655,,,aljazeera
+Black Sea,1,LOC,2022,3,17,43.87280435,33.99381559,,,aljazeera
+Black Sea,1,LOC,2022,3,17,43.87280435,33.99381559,,,aljazeera
+Ukraine,99,GPE,2022,3,18,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,53,GPE,2022,3,18,64.6863136,97.7453061,Russia,,aljazeera
+China,29,GPE,2022,3,18,35.000074,104.999927,China,,aljazeera
+United States,26,GPE,2022,3,18,39.7837304,-100.445882,United States,,aljazeera
+Poland,16,GPE,2022,3,18,52.215933,19.134422,Poland,,aljazeera
+Moscow,15,GPE,2022,3,18,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Mariupol,10,GPE,2022,3,18,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Beijing,8,GPE,2022,3,18,39.906217,116.3912757,China,Beijing,aljazeera
+India,6,GPE,2022,3,18,22.3511148,78.6677428,India,,aljazeera
+Switzerland,6,GPE,2022,3,18,46.7985624,8.2319736,Switzerland,Sachseln,aljazeera
+Kyiv,5,GPE,2022,3,18,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Bulgaria,5,GPE,2022,3,18,42.6073975,25.4856617,Bulgaria,,aljazeera
+Belarus,3,GPE,2022,3,18,53.4250605,27.6971358,Belarus,,aljazeera
+Mykolaiv,2,GPE,2022,3,18,47.3886032,31.9442334,Ukraine,,aljazeera
+Japan,2,GPE,2022,3,18,36.5748441,139.2394179,Japan,Kiryu,aljazeera
+New Delhi,2,GPE,2022,3,18,28.6138954,77.2090057,India,New Delhi,aljazeera
+Kishida,2,GPE,2022,3,18,35.4610773,134.4770731,Japan,,aljazeera
+United Kingdom,2,GPE,2022,3,18,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Europe,5,LOC,2022,3,18,,,,,aljazeera
+Kyiv,2,LOC,2022,3,18,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Black Sea,2,LOC,2022,3,18,43.87280435,33.99381559,,,aljazeera
+Azov Sea,2,LOC,2022,3,18,46.196729,36.73570655,,,aljazeera
+Black Sea,1,LOC,2022,3,18,43.87280435,33.99381559,,,aljazeera
+Mediterranean Sea,1,LOC,2022,3,18,34,18,,,aljazeera
+Azov Sea,1,LOC,2022,3,18,46.196729,36.73570655,,,aljazeera
+Ukraine,89,GPE,2022,3,19,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,66,GPE,2022,3,19,64.6863136,97.7453061,Russia,,aljazeera
+Mariupol,24,GPE,2022,3,19,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+United States,11,GPE,2022,3,19,39.7837304,-100.445882,United States,,aljazeera
+China,10,GPE,2022,3,19,35.000074,104.999927,China,,aljazeera
+Israel,8,GPE,2022,3,19,31.5313113,34.8667654,Israel,Lachish Regional Council,aljazeera
+Moscow,6,GPE,2022,3,19,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Germany,6,GPE,2022,3,19,51.0834196,10.4234469,Germany,,aljazeera
+France,4,GPE,2022,3,19,46.603354,1.8883335,France,,aljazeera
+Qatar,4,GPE,2022,3,19,25.3336984,51.2295295,Qatar,,aljazeera
+Turkey,4,GPE,2022,3,19,38.9597594,34.9249653,Turkey,,aljazeera
+Switzerland,3,GPE,2022,3,19,46.7985624,8.2319736,Switzerland,Sachseln,aljazeera
+Warsaw,3,GPE,2022,3,19,52.2319581,21.0067249,Poland,Warsaw,aljazeera
+Kharkiv,2,GPE,2022,3,19,49.9923181,36.2310146,Ukraine,Kharkiv,aljazeera
+Ukraine,2,GPE,2022,3,19,49.4871968,31.2718321,Ukraine,,aljazeera
+Jerusalem,2,GPE,2022,3,19,31.79592425,35.21198076,Israel,Jerusalem,aljazeera
+Slovakia,2,GPE,2022,3,19,48.7411522,19.4528646,Slovakia,Ľubietová,aljazeera
+Kherson,2,GPE,2022,3,19,46.5421715,33.4079326,Ukraine,,aljazeera
+Kyiv,4,LOC,2022,3,19,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,4,LOC,2022,3,19,,,,,aljazeera
+Black Sea,1,LOC,2022,3,19,43.87280435,33.99381559,,,aljazeera
+Sviatoshyn District,1,LOC,2022,3,19,50.4576865,30.3883951,Ukraine,,aljazeera
+Luhansk,1,LOC,2022,3,19,49.2724587,38.9150477,Ukraine,,aljazeera
+Western Volyn Region,1,LOC,2022,3,19,,,,,aljazeera
+Ukraine,100,GPE,2022,3,20,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,76,GPE,2022,3,20,64.6863136,97.7453061,Russia,,aljazeera
+Moscow,29,GPE,2022,3,20,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Mariupol,13,GPE,2022,3,20,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Kyiv,11,GPE,2022,3,20,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+United States,9,GPE,2022,3,20,39.7837304,-100.445882,United States,,aljazeera
+China,9,GPE,2022,3,20,35.000074,104.999927,China,,aljazeera
+Japan,8,GPE,2022,3,20,36.5748441,139.2394179,Japan,Kiryu,aljazeera
+Brussels,6,GPE,2022,3,20,50.8465573,4.351697,Belgium,Brussels,aljazeera
+Chernobyl,6,GPE,2022,3,20,51.2705477,30.2195609,Ukraine,Chernobyl,aljazeera
+Kherson,5,GPE,2022,3,20,46.5421715,33.4079326,Ukraine,,aljazeera
+Ukraine,5,GPE,2022,3,20,49.4871968,31.2718321,Ukraine,,aljazeera
+Israel,5,GPE,2022,3,20,31.5313113,34.8667654,Israel,Lachish Regional Council,aljazeera
+Lithuania,4,GPE,2022,3,20,55.3500003,23.7499997,Lithuania,,aljazeera
+Jerusalem,4,GPE,2022,3,20,31.79592425,35.21198076,Israel,Jerusalem,aljazeera
+Germany,3,GPE,2022,3,20,51.0834196,10.4234469,Germany,,aljazeera
+Turkey,3,GPE,2022,3,20,38.9597594,34.9249653,Turkey,,aljazeera
+Poland,3,GPE,2022,3,20,52.215933,19.134422,Poland,,aljazeera
+Slovenia,3,GPE,2022,3,20,45.8133113,14.4808369,Slovenia,,aljazeera
+Europe,14,LOC,2022,3,20,,,,,aljazeera
+Kyiv,9,LOC,2022,3,20,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Podilskyi District,3,LOC,2022,3,20,50.4895574,30.42850355,Ukraine,Kyiv,aljazeera
+Black Sea,2,LOC,2022,3,20,43.87280435,33.99381559,,,aljazeera
+Berdyansk,1,LOC,2022,3,20,46.755678,36.7887623,Ukraine,Berdiansk,aljazeera
+Azov Sea,1,LOC,2022,3,20,46.196729,36.73570655,,,aljazeera
+Black Sea,1,LOC,2022,3,20,43.87280435,33.99381559,,,aljazeera
+Ukraine,151,GPE,2022,3,21,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,113,GPE,2022,3,21,64.6863136,97.7453061,Russia,,aljazeera
+United States,37,GPE,2022,3,21,39.7837304,-100.445882,United States,,aljazeera
+United States,29,GPE,2022,3,21,39.7837304,-100.445882,United States,,aljazeera
+Mariupol,16,GPE,2022,3,21,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Poland,10,GPE,2022,3,21,52.215933,19.134422,Poland,,aljazeera
+Japan,10,GPE,2022,3,21,36.5748441,139.2394179,Japan,Kiryu,aljazeera
+United Kingdom,6,GPE,2022,3,21,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Kyiv,5,GPE,2022,3,21,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Belarus,5,GPE,2022,3,21,53.4250605,27.6971358,Belarus,,aljazeera
+United States,4,GPE,2022,3,21,39.7837304,-100.445882,United States,,aljazeera
+United States,4,GPE,2022,3,21,39.7837304,-100.445882,United States,,aljazeera
+Hungary,4,GPE,2022,3,21,47.1817585,19.5060937,Hungary,Pusztavacs,aljazeera
+London,4,GPE,2022,3,21,51.5073219,-0.1276474,United Kingdom,Westminster,aljazeera
+Washington,4,GPE,2022,3,21,38.8950368,-77.0365427,United States,Washington,aljazeera
+China,3,GPE,2022,3,21,35.000074,104.999927,China,,aljazeera
+India,3,GPE,2022,3,21,22.3511148,78.6677428,India,,aljazeera
+Ukraine,3,GPE,2022,3,21,49.4871968,31.2718321,Ukraine,,aljazeera
+Europe,13,LOC,2022,3,21,,,,,aljazeera
+Kyiv,4,LOC,2022,3,21,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Dnipro,2,LOC,2022,3,21,51.9191343,30.8243039,Ukraine,,aljazeera
+Azov Sea,2,LOC,2022,3,21,46.196729,36.73570655,,,aljazeera
+Eastern Dnipro,1,LOC,2022,3,21,,,,,aljazeera
+Lurope,1,LOC,2022,3,21,,,,,aljazeera
+Volyn,1,LOC,2022,3,21,51.5451167,24.6627893,Ukraine,,aljazeera
+Crimea,1,LOC,2022,3,21,45.28350435,34.20081878,Ukraine,,aljazeera
+Black Sea,1,LOC,2022,3,21,43.87280435,33.99381559,,,aljazeera
+Middle East,1,LOC,2022,3,21,,,,,aljazeera
+Ukraine,128,GPE,2022,3,22,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,117,GPE,2022,3,22,64.6863136,97.7453061,Russia,,aljazeera
+United States,33,GPE,2022,3,22,39.7837304,-100.445882,United States,,aljazeera
+Moscow,23,GPE,2022,3,22,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Mariupol,15,GPE,2022,3,22,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Poland,10,GPE,2022,3,22,52.215933,19.134422,Poland,,aljazeera
+Belarus,8,GPE,2022,3,22,53.4250605,27.6971358,Belarus,,aljazeera
+China,7,GPE,2022,3,22,35.000074,104.999927,China,,aljazeera
+Germany,7,GPE,2022,3,22,51.0834196,10.4234469,Germany,,aljazeera
+Brussels,6,GPE,2022,3,22,50.8465573,4.351697,Belgium,Brussels,aljazeera
+United Kingdom,6,GPE,2022,3,22,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Kyiv,5,GPE,2022,3,22,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+United States,4,GPE,2022,3,22,39.7837304,-100.445882,United States,,aljazeera
+United States,3,GPE,2022,3,22,39.7837304,-100.445882,United States,,aljazeera
+France,3,GPE,2022,3,22,46.603354,1.8883335,France,,aljazeera
+United States,3,GPE,2022,3,22,39.7837304,-100.445882,United States,,aljazeera
+Sweden,3,GPE,2022,3,22,59.6749712,14.5208584,Sweden,,aljazeera
+Japan,3,GPE,2022,3,22,36.5748441,139.2394179,Japan,Kiryu,aljazeera
+Kyiv,6,LOC,2022,3,22,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,5,LOC,2022,3,22,,,,,aljazeera
+Desna River,1,LOC,2022,3,22,52.264635,33.342848,Ukraine,,aljazeera
+Desna River,1,LOC,2022,3,22,52.264635,33.342848,Ukraine,,aljazeera
+Crimea,1,LOC,2022,3,22,45.28350435,34.20081878,Ukraine,,aljazeera
+Berdyansk,1,LOC,2022,3,22,46.755678,36.7887623,Ukraine,Berdiansk,aljazeera
+Mariupol,1,LOC,2022,3,22,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Ukraine,157,GPE,2022,3,23,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,138,GPE,2022,3,23,64.6863136,97.7453061,Russia,,aljazeera
+United States,30,GPE,2022,3,23,39.7837304,-100.445882,United States,,aljazeera
+Moscow,28,GPE,2022,3,23,55.7504461,37.6174943,Russia,Moscow,aljazeera
+United Kingdom,17,GPE,2022,3,23,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Brussels,13,GPE,2022,3,23,50.8465573,4.351697,Belgium,Brussels,aljazeera
+Mariupol,10,GPE,2022,3,23,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+China,7,GPE,2022,3,23,35.000074,104.999927,China,,aljazeera
+Bulgaria,6,GPE,2022,3,23,42.6073975,25.4856617,Bulgaria,,aljazeera
+Kyiv,6,GPE,2022,3,23,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Poland,6,GPE,2022,3,23,52.215933,19.134422,Poland,,aljazeera
+Belgium,6,GPE,2022,3,23,50.6402809,4.6667145,Belgium,,aljazeera
+Syria,4,GPE,2022,3,23,34.6401861,39.0494106,Syria,,aljazeera
+Belarus,4,GPE,2022,3,23,53.4250605,27.6971358,Belarus,,aljazeera
+Washington,4,GPE,2022,3,23,38.8950368,-77.0365427,United States,Washington,aljazeera
+Japan,4,GPE,2022,3,23,36.5748441,139.2394179,Japan,Kiryu,aljazeera
+Canada,3,GPE,2022,3,23,61.0666922,-107.991707,Canada,,aljazeera
+Kyiv,12,LOC,2022,3,23,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,7,LOC,2022,3,23,,,,,aljazeera
+Black Sea,3,LOC,2022,3,23,43.87280435,33.99381559,,,aljazeera
+Middle East,1,LOC,2022,3,23,,,,,aljazeera
+Middle East,1,LOC,2022,3,23,,,,,aljazeera
+Black Sea,1,LOC,2022,3,23,43.87280435,33.99381559,,,aljazeera
+Eastern Europe,1,LOC,2022,3,23,,,,,aljazeera
+Mariupol,1,LOC,2022,3,23,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Crimea,1,LOC,2022,3,23,45.28350435,34.20081878,Ukraine,,aljazeera
+Anadolu,1,LOC,2022,3,23,38.9528714,34.9249653,Turkey,,aljazeera
+Eastern Europe,1,LOC,2022,3,23,,,,,aljazeera
+Azov Sea,1,LOC,2022,3,23,46.196729,36.73570655,,,aljazeera
+Berdyansk,1,LOC,2022,3,23,46.755678,36.7887623,Ukraine,Berdiansk,aljazeera
+Azov Sea,1,LOC,2022,3,23,46.196729,36.73570655,,,aljazeera
+Podil,1,LOC,2022,3,23,50.469128,30.516624,Ukraine,Kyiv,aljazeera
+Avtovaz,1,LOC,2022,3,23,47.9646728,37.85981076,Ukraine,Donetsk,aljazeera
+Ukraine,133,GPE,2022,3,24,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,110,GPE,2022,3,24,64.6863136,97.7453061,Russia,,aljazeera
+United States,34,GPE,2022,3,24,39.7837304,-100.445882,United States,,aljazeera
+Moscow,25,GPE,2022,3,24,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Mariupol,14,GPE,2022,3,24,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Mexico,9,GPE,2022,3,24,23.6585116,-102.0077097,Mexico,,aljazeera
+United Kingdom,8,GPE,2022,3,24,54.7023545,-3.2765753,United Kingdom,,aljazeera
+France,6,GPE,2022,3,24,46.603354,1.8883335,France,,aljazeera
+Brussels,6,GPE,2022,3,24,50.8465573,4.351697,Belgium,Brussels,aljazeera
+Chernobyl,6,GPE,2022,3,24,51.2705477,30.2195609,Ukraine,Chernobyl,aljazeera
+Kyiv,6,GPE,2022,3,24,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Poland,6,GPE,2022,3,24,52.215933,19.134422,Poland,,aljazeera
+Germany,6,GPE,2022,3,24,51.0834196,10.4234469,Germany,,aljazeera
+China,5,GPE,2022,3,24,35.000074,104.999927,China,,aljazeera
+Washington,5,GPE,2022,3,24,38.8950368,-77.0365427,United States,Washington,aljazeera
+Luhansk,5,GPE,2022,3,24,49.2724587,38.9150477,Ukraine,,aljazeera
+Canada,5,GPE,2022,3,24,61.0666922,-107.991707,Canada,,aljazeera
+Donbas,4,GPE,2022,3,24,48.1032,38.5921,Ukraine,Donbas,aljazeera
+Kyiv,14,LOC,2022,3,24,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,7,LOC,2022,3,24,,,,,aljazeera
+Azov Sea,1,LOC,2022,3,24,46.196729,36.73570655,,,aljazeera
+Central Asia,1,LOC,2022,3,24,,,,,aljazeera
+Donbas,1,LOC,2022,3,24,48.1032,38.5921,Ukraine,Donbas,aljazeera
+Crimea,1,LOC,2022,3,24,45.28350435,34.20081878,Ukraine,,aljazeera
+Pacific Island,1,LOC,2022,3,24,45.0015763,-1.1998453,France,,aljazeera
+Desna River,1,LOC,2022,3,24,52.264635,33.342848,Ukraine,,aljazeera
+Chornoby,1,LOC,2022,3,24,42.3038353,-82.8871862,Canada,,aljazeera
+Middle East,1,LOC,2022,3,24,,,,,aljazeera
+Ukraine,63,GPE,2022,3,25,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,55,GPE,2022,3,25,64.6863136,97.7453061,Russia,,aljazeera
+United States,19,GPE,2022,3,25,39.7837304,-100.445882,United States,,aljazeera
+Warsaw,10,GPE,2022,3,25,52.2319581,21.0067249,Poland,Warsaw,aljazeera
+Moscow,9,GPE,2022,3,25,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Japan,7,GPE,2022,3,25,36.5748441,139.2394179,Japan,Kiryu,aljazeera
+Donbas,6,GPE,2022,3,25,48.1032,38.5921,Ukraine,Donbas,aljazeera
+Poland,5,GPE,2022,3,25,52.215933,19.134422,Poland,,aljazeera
+Mariupol,5,GPE,2022,3,25,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Qatar,5,GPE,2022,3,25,25.3336984,51.2295295,Qatar,,aljazeera
+Lviv,4,GPE,2022,3,25,49.841952,24.0315921,Ukraine,Lviv,aljazeera
+Chernobyl,3,GPE,2022,3,25,51.2705477,30.2195609,Ukraine,Chernobyl,aljazeera
+Hiroshima,3,GPE,2022,3,25,34.3916058,132.4518156,Japan,Hiroshima,aljazeera
+Rzeszow,2,GPE,2022,3,25,50.013064,22.01614346,Poland,Rzeszow,aljazeera
+Chernihiv,2,GPE,2022,3,25,51.272593,31.7417235,Ukraine,,aljazeera
+Lviv,2,GPE,2022,3,25,49.841952,24.0315921,Ukraine,Lviv,aljazeera
+Kishida,2,GPE,2022,3,25,35.4610773,134.4770731,Japan,,aljazeera
+Doha,2,GPE,2022,3,25,25.2856329,51.5264162,Qatar,Doha,aljazeera
+Kyiv,11,LOC,2022,3,25,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,4,LOC,2022,3,25,,,,,aljazeera
+Black Sea,1,LOC,2022,3,25,43.87280435,33.99381559,,,aljazeera
+Kuril Islands,1,LOC,2022,3,25,23.80216945,90.39791172,Bangladesh,Dhaka,aljazeera
+Ukraine,106,GPE,2022,3,26,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,66,GPE,2022,3,26,64.6863136,97.7453061,Russia,,aljazeera
+Moscow,13,GPE,2022,3,26,55.7504461,37.6174943,Russia,Moscow,aljazeera
+United States,10,GPE,2022,3,26,39.7837304,-100.445882,United States,,aljazeera
+Poland,7,GPE,2022,3,26,52.215933,19.134422,Poland,,aljazeera
+France,6,GPE,2022,3,26,46.603354,1.8883335,France,,aljazeera
+London,6,GPE,2022,3,26,51.5073219,-0.1276474,United Kingdom,Westminster,aljazeera
+Belarus,5,GPE,2022,3,26,53.4250605,27.6971358,Belarus,,aljazeera
+Turkey,5,GPE,2022,3,26,38.9597594,34.9249653,Turkey,,aljazeera
+Mariupol,5,GPE,2022,3,26,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Warsaw,4,GPE,2022,3,26,52.2319581,21.0067249,Poland,Warsaw,aljazeera
+Qatar,4,GPE,2022,3,26,25.3336984,51.2295295,Qatar,,aljazeera
+Kyiv,3,GPE,2022,3,26,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Germany,3,GPE,2022,3,26,51.0834196,10.4234469,Germany,,aljazeera
+Donbas,3,GPE,2022,3,26,48.1032,38.5921,Ukraine,Donbas,aljazeera
+Chernobyl,3,GPE,2022,3,26,51.2705477,30.2195609,Ukraine,Chernobyl,aljazeera
+United Kingdom,2,GPE,2022,3,26,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Europe,5,LOC,2022,3,26,,,,,aljazeera
+Kyiv,3,LOC,2022,3,26,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Eastern Europe,1,LOC,2022,3,26,,,,,aljazeera
+Crimea,1,LOC,2022,3,26,45.28350435,34.20081878,Ukraine,,aljazeera
+Black Sea,1,LOC,2022,3,26,43.87280435,33.99381559,,,aljazeera
+Baltic Sea,1,LOC,2022,3,26,56,18,,,aljazeera
+Sumy,1,LOC,2022,3,26,50.90007875,34.80904073,Ukraine,Sumy,aljazeera
+Ukraine,102,GPE,2022,3,27,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,82,GPE,2022,3,27,64.6863136,97.7453061,Russia,,aljazeera
+Moscow,23,GPE,2022,3,27,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Turkey,12,GPE,2022,3,27,38.9597594,34.9249653,Turkey,,aljazeera
+Chernobyl,10,GPE,2022,3,27,51.2705477,30.2195609,Ukraine,Chernobyl,aljazeera
+Germany,10,GPE,2022,3,27,51.0834196,10.4234469,Germany,,aljazeera
+Kyiv,9,GPE,2022,3,27,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Mariupol,8,GPE,2022,3,27,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+United States,6,GPE,2022,3,27,39.7837304,-100.445882,United States,,aljazeera
+Poland,5,GPE,2022,3,27,52.215933,19.134422,Poland,,aljazeera
+China,5,GPE,2022,3,27,35.000074,104.999927,China,,aljazeera
+Ukraine,4,GPE,2022,3,27,49.4871968,31.2718321,Ukraine,,aljazeera
+United Kingdom,4,GPE,2022,3,27,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Italy,4,GPE,2022,3,27,42.6384261,12.674297,Italy,Terni,aljazeera
+Vinnytsia,4,GPE,2022,3,27,48.8990315,28.516068,Ukraine,,aljazeera
+Luhansk,4,GPE,2022,3,27,49.2724587,38.9150477,Ukraine,,aljazeera
+Donbas,3,GPE,2022,3,27,48.1032,38.5921,Ukraine,Donbas,aljazeera
+Warsaw,3,GPE,2022,3,27,52.2319581,21.0067249,Poland,Warsaw,aljazeera
+Kyiv,5,LOC,2022,3,27,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,4,LOC,2022,3,27,,,,,aljazeera
+Mariupol,2,LOC,2022,3,27,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Luhansk,1,LOC,2022,3,27,49.2724587,38.9150477,Ukraine,,aljazeera
+Black Sea,1,LOC,2022,3,27,43.87280435,33.99381559,,,aljazeera
+Black Sea,1,LOC,2022,3,27,43.87280435,33.99381559,,,aljazeera
+Siberia,1,LOC,2022,3,27,60,100,Russia,,aljazeera
+Ukraine,115,GPE,2022,3,28,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,102,GPE,2022,3,28,64.6863136,97.7453061,Russia,,aljazeera
+United States,22,GPE,2022,3,28,39.7837304,-100.445882,United States,,aljazeera
+Moscow,21,GPE,2022,3,28,55.7504461,37.6174943,Russia,Moscow,aljazeera
+France,11,GPE,2022,3,28,46.603354,1.8883335,France,,aljazeera
+Kyiv,10,GPE,2022,3,28,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Istanbul,10,GPE,2022,3,28,41.0091982,28.9662187,Turkey,Istanbul,aljazeera
+Mariupol,9,GPE,2022,3,28,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+United Kingdom,9,GPE,2022,3,28,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Germany,8,GPE,2022,3,28,51.0834196,10.4234469,Germany,,aljazeera
+Turkey,8,GPE,2022,3,28,38.9597594,34.9249653,Turkey,,aljazeera
+Ukraine,5,GPE,2022,3,28,49.4871968,31.2718321,Ukraine,,aljazeera
+Washington,4,GPE,2022,3,28,38.8950368,-77.0365427,United States,Washington,aljazeera
+Italy,4,GPE,2022,3,28,42.6384261,12.674297,Italy,Terni,aljazeera
+Poland,4,GPE,2022,3,28,52.215933,19.134422,Poland,,aljazeera
+Donetsk,3,GPE,2022,3,28,48.0158753,37.8013407,Ukraine,Donetsk,aljazeera
+United States,3,GPE,2022,3,28,39.7837304,-100.445882,United States,,aljazeera
+Canada,3,GPE,2022,3,28,61.0666922,-107.991707,Canada,,aljazeera
+Kyiv,9,LOC,2022,3,28,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,6,LOC,2022,3,28,,,,,aljazeera
+Asia,3,LOC,2022,3,28,,,,,aljazeera
+Africa,2,LOC,2022,3,28,,,,,aljazeera
+Mykolayiv,2,LOC,2022,3,28,46.9380295,32.0626947,Ukraine,Mykolaiv,aljazeera
+Latin America,1,LOC,2022,3,28,,,,,aljazeera
+Middle East,1,LOC,2022,3,28,,,,,aljazeera
+Canary Wharf,1,LOC,2022,3,28,51.5048954,-0.0190006,United Kingdom,London,aljazeera
+Crimea,1,LOC,2022,3,28,45.28350435,34.20081878,Ukraine,,aljazeera
+Black Sea,1,LOC,2022,3,28,43.87280435,33.99381559,,,aljazeera
+Eastern Europe,1,LOC,2022,3,28,,,,,aljazeera
+Ukraine,146,GPE,2022,3,29,49.4871968,31.2718321,Ukraine,,aljazeera
+Russia,110,GPE,2022,3,29,64.6863136,97.7453061,Russia,,aljazeera
+Moscow,31,GPE,2022,3,29,55.7504461,37.6174943,Russia,Moscow,aljazeera
+United States,21,GPE,2022,3,29,39.7837304,-100.445882,United States,,aljazeera
+Mariupol,17,GPE,2022,3,29,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Kyiv,10,GPE,2022,3,29,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Donetsk,9,GPE,2022,3,29,48.0158753,37.8013407,Ukraine,Donetsk,aljazeera
+United Kingdom,9,GPE,2022,3,29,54.7023545,-3.2765753,United Kingdom,,aljazeera
+China,8,GPE,2022,3,29,35.000074,104.999927,China,,aljazeera
+Poland,7,GPE,2022,3,29,52.215933,19.134422,Poland,,aljazeera
+Norway,7,GPE,2022,3,29,60.5000209,9.0999715,Norway,,aljazeera
+Germany,6,GPE,2022,3,29,51.0834196,10.4234469,Germany,,aljazeera
+Chernobyl,5,GPE,2022,3,29,51.2705477,30.2195609,Ukraine,Chernobyl,aljazeera
+Chernihiv,4,GPE,2022,3,29,51.272593,31.7417235,Ukraine,,aljazeera
+Belarus,4,GPE,2022,3,29,53.4250605,27.6971358,Belarus,,aljazeera
+Turkey,4,GPE,2022,3,29,38.9597594,34.9249653,Turkey,,aljazeera
+Vinnytsia,4,GPE,2022,3,29,48.8990315,28.516068,Ukraine,,aljazeera
+Finland,4,GPE,2022,3,29,63.2467777,25.9209164,Finland,,aljazeera
+Estonia,4,GPE,2022,3,29,58.7523778,25.3319078,Estonia,,aljazeera
+Kyiv,15,LOC,2022,3,29,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Europe,13,LOC,2022,3,29,,,,,aljazeera
+Mariupol,3,LOC,2022,3,29,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Snake Island,2,LOC,2022,3,29,45.2543,30.2045,Ukraine,,aljazeera
+Black Sea,2,LOC,2022,3,29,43.87280435,33.99381559,,,aljazeera
+Chernobyl,1,LOC,2022,3,29,51.2705477,30.2195609,Ukraine,Chernobyl,aljazeera
+Eastern Europe,1,LOC,2022,3,29,,,,,aljazeera
+Baltic Sea,1,LOC,2022,3,29,56,18,,,aljazeera
+Middle East,1,LOC,2022,3,29,,,,,aljazeera
+Crimea,1,LOC,2022,3,29,45.28350435,34.20081878,Ukraine,,aljazeera
+Starokostiantyniv,1,LOC,2022,3,29,49.756163,27.2087889,Ukraine,,aljazeera
+Poltava,1,LOC,2022,3,29,49.8607809,33.7498787,Ukraine,,aljazeera
+Black Sea,1,LOC,2022,3,29,43.87280435,33.99381559,,,aljazeera
+Russia,92,GPE,2022,3,30,64.6863136,97.7453061,Russia,,aljazeera
+Ukraine,86,GPE,2022,3,30,49.4871968,31.2718321,Ukraine,,aljazeera
+Moscow,18,GPE,2022,3,30,55.7504461,37.6174943,Russia,Moscow,aljazeera
+Mariupol,16,GPE,2022,3,30,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+United States,15,GPE,2022,3,30,39.7837304,-100.445882,United States,,aljazeera
+United Kingdom,11,GPE,2022,3,30,54.7023545,-3.2765753,United Kingdom,,aljazeera
+India,6,GPE,2022,3,30,22.3511148,78.6677428,India,,aljazeera
+Zaporizhzhia,5,GPE,2022,3,30,47.8507859,35.1182867,Ukraine,Zaporizhzhia,aljazeera
+Germany,5,GPE,2022,3,30,51.0834196,10.4234469,Germany,,aljazeera
+Vinnytsia,5,GPE,2022,3,30,48.8990315,28.516068,Ukraine,,aljazeera
+Donbas,4,GPE,2022,3,30,48.1032,38.5921,Ukraine,Donbas,aljazeera
+Georgia,4,GPE,2022,3,30,42.3154,43.3569,Georgia,,aljazeera
+Istanbul,4,GPE,2022,3,30,41.0091982,28.9662187,Turkey,Istanbul,aljazeera
+Turkey,4,GPE,2022,3,30,38.9597594,34.9249653,Turkey,,aljazeera
+United Kingdom,3,GPE,2022,3,30,54.7023545,-3.2765753,United Kingdom,,aljazeera
+Lithuania,3,GPE,2022,3,30,55.3500003,23.7499997,Lithuania,,aljazeera
+Denmark,3,GPE,2022,3,30,55.670249,10.3333283,Denmark,,aljazeera
+Donetsk,3,GPE,2022,3,30,48.0158753,37.8013407,Ukraine,Donetsk,aljazeera
+Britain,2,GPE,2022,3,30,54.31536155,-1.918023495,United Kingdom,,aljazeera
+Brussels,2,GPE,2022,3,30,50.8465573,4.351697,Belgium,Brussels,aljazeera
+Europe,8,LOC,2022,3,30,,,,,aljazeera
+Kyiv,4,LOC,2022,3,30,50.4500336,30.5241361,Ukraine,Kyiv,aljazeera
+Black Sea,2,LOC,2022,3,30,43.87280435,33.99381559,,,aljazeera
+Black Sea,2,LOC,2022,3,30,43.87280435,33.99381559,,,aljazeera
+Dnipro,2,LOC,2022,3,30,51.9191343,30.8243039,Ukraine,,aljazeera
+Mariupol,1,LOC,2022,3,30,47.0957648,37.5499621,Ukraine,Mariupol,aljazeera
+Siberia,1,LOC,2022,3,30,60,100,Russia,,aljazeera
+Eastern Kharkiv Region,1,LOC,2022,3,30,49.7188573,37.6109463,Ukraine,,aljazeera
+Asia,1,LOC,2022,3,30,,,,,aljazeera
+South Ossetia,1,LOC,2022,3,30,42.3476344,44.0979465,Georgia,,aljazeera
+Latin America,1,LOC,2022,3,30,,,,,aljazeera
+Middle East,1,LOC,2022,3,30,,,,,aljazeera
+Southeast Asia,1,LOC,2022,3,30,,,,Leipzig,aljazeera
+Africa,1,LOC,2022,3,30,,,,,aljazeera
+Ukraine,68,GPE,2022,3,1,49.4871968,31.2718321,Ukraine,,cnn
+Russia,66,GPE,2022,3,1,64.6863136,97.7453061,Russia,,cnn
+United States,42,GPE,2022,3,1,39.7837304,-100.445882,United States,,cnn
+Kyiv,8,GPE,2022,3,1,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+United Kingdom,8,GPE,2022,3,1,54.7023545,-3.2765753,United Kingdom,,cnn
+Moscow,7,GPE,2022,3,1,55.7504461,37.6174943,Russia,Moscow,cnn
+Turkey,6,GPE,2022,3,1,38.9597594,34.9249653,Turkey,,cnn
+Kherson,5,GPE,2022,3,1,46.5421715,33.4079326,Ukraine,,cnn
+United States,5,GPE,2022,3,1,39.7837304,-100.445882,United States,,cnn
+Japan,4,GPE,2022,3,1,36.5748441,139.2394179,Japan,Kiryu,cnn
+Poland,4,GPE,2022,3,1,52.215933,19.134422,Poland,,cnn
+Belarus,3,GPE,2022,3,1,53.4250605,27.6971358,Belarus,,cnn
+Lviv,3,GPE,2022,3,1,49.841952,24.0315921,Ukraine,Lviv,cnn
+Sakhalin,3,GPE,2022,3,1,50.8503952,142.6509733,Russia,,cnn
+Brazil,3,GPE,2022,3,1,-10.3333333,-53.2,Brazil,,cnn
+Russia,3,GPE,2022,3,1,64.6863136,97.7453061,Russia,,cnn
+Borodjanka,2,GPE,2022,3,1,50.6437677,29.9278296,Ukraine,,cnn
+Hungary,2,GPE,2022,3,1,47.1817585,19.5060937,Hungary,Pusztavacs,cnn
+Nebraska,2,GPE,2022,3,1,41.7370229,-99.5873816,United States,,cnn
+Monterrey,1,GPE,2022,3,1,25.6802019,-100.315258,Mexico,Monterrey,cnn
+Kyiv,15,LOC,2022,3,1,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Europe,3,LOC,2022,3,1,,,,,cnn
+Dnieper River,1,LOC,2022,3,1,48.828,34.091,Ukraine,,cnn
+Okhotsk Sea,1,LOC,2022,3,1,52.8736,149.3658,,,cnn
+Black Sea,1,LOC,2022,3,1,43.87280435,33.99381559,,,cnn
+Asia,1,LOC,2022,3,1,,,,,cnn
+Ukraine,69,GPE,2022,3,2,49.4871968,31.2718321,Ukraine,,cnn
+Russia,44,GPE,2022,3,2,64.6863136,97.7453061,Russia,,cnn
+United States,17,GPE,2022,3,2,39.7837304,-100.445882,United States,,cnn
+Kyiv,12,GPE,2022,3,2,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Canada,10,GPE,2022,3,2,61.0666922,-107.991707,Canada,,cnn
+China,7,GPE,2022,3,2,35.000074,104.999927,China,,cnn
+United States,5,GPE,2022,3,2,39.7837304,-100.445882,United States,,cnn
+Beijing,5,GPE,2022,3,2,39.906217,116.3912757,China,Beijing,cnn
+Moscow,5,GPE,2022,3,2,55.7504461,37.6174943,Russia,Moscow,cnn
+Cuba,5,GPE,2022,3,2,23.0131338,-80.8328748,Cuba,,cnn
+South Korea,4,GPE,2022,3,2,36.638392,127.6961188,South Korea,Cheongju-si,cnn
+Nicaragua,4,GPE,2022,3,2,12.6090157,-85.2936911,Nicaragua,Boaco (Municipio),cnn
+Poland,3,GPE,2022,3,2,52.215933,19.134422,Poland,,cnn
+Bucha,3,GPE,2022,3,2,50.5485813,30.2207143,Ukraine,,cnn
+Mykolaiv,3,GPE,2022,3,2,47.3886032,31.9442334,Ukraine,,cnn
+Kherson,3,GPE,2022,3,2,46.5421715,33.4079326,Ukraine,,cnn
+Menendez,3,GPE,2022,3,2,-27.74850135,-64.25270525,Argentina,La Banda,cnn
+Belarus,3,GPE,2022,3,2,53.4250605,27.6971358,Belarus,,cnn
+United Kingdom,3,GPE,2022,3,2,54.7023545,-3.2765753,United Kingdom,,cnn
+Kyiv,9,LOC,2022,3,2,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Europe,3,LOC,2022,3,2,,,,,cnn
+Stryzhen River,2,LOC,2022,3,2,51.420634,33.696597,,,cnn
+Black Sea,2,LOC,2022,3,2,43.87280435,33.99381559,,,cnn
+Latin America,2,LOC,2022,3,2,,,,,cnn
+Maryna,1,LOC,2022,3,2,54.0932509,22.7435776,Poland,,cnn
+Ukraine,107,GPE,2022,3,3,49.4871968,31.2718321,Ukraine,,cnn
+Russia,56,GPE,2022,3,3,64.6863136,97.7453061,Russia,,cnn
+United States,40,GPE,2022,3,3,39.7837304,-100.445882,United States,,cnn
+Zaporizhzhia,10,GPE,2022,3,3,47.8507859,35.1182867,Ukraine,Zaporizhzhia,cnn
+Enerhodar,8,GPE,2022,3,3,47.4970865,34.6487214,Ukraine,,cnn
+United States,8,GPE,2022,3,3,39.7837304,-100.445882,United States,,cnn
+Moscow,6,GPE,2022,3,3,55.7504461,37.6174943,Russia,Moscow,cnn
+Chernobyl,5,GPE,2022,3,3,51.2705477,30.2195609,Ukraine,Chernobyl,cnn
+Kherson,5,GPE,2022,3,3,46.5421715,33.4079326,Ukraine,,cnn
+Belarus,4,GPE,2022,3,3,53.4250605,27.6971358,Belarus,,cnn
+Mariupol,3,GPE,2022,3,3,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+United States,3,GPE,2022,3,3,39.7837304,-100.445882,United States,,cnn
+Germany,3,GPE,2022,3,3,51.0834196,10.4234469,Germany,,cnn
+Syria,3,GPE,2022,3,3,34.6401861,39.0494106,Syria,,cnn
+Chernihiv,2,GPE,2022,3,3,51.272593,31.7417235,Ukraine,,cnn
+Georgia,2,GPE,2022,3,3,42.3154,43.3569,Georgia,,cnn
+Europe,7,LOC,2022,3,3,,,,,cnn
+Kyiv,2,LOC,2022,3,3,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Kharkiv,1,LOC,2022,3,3,49.9923181,36.2310146,Ukraine,Kharkiv,cnn
+Europe,1,LOC,2022,3,3,,,,,cnn
+Black Sea,1,LOC,2022,3,3,43.87280435,33.99381559,,,cnn
+Roman,1,LOC,2022,3,3,48.8362976,1.047626207,France,Mesnils-sur-Iton,cnn
+Ukraine,145,GPE,2022,3,4,49.4871968,31.2718321,Ukraine,,cnn
+Russia,98,GPE,2022,3,4,64.6863136,97.7453061,Russia,,cnn
+United States,67,GPE,2022,3,4,39.7837304,-100.445882,United States,,cnn
+Poland,17,GPE,2022,3,4,52.215933,19.134422,Poland,,cnn
+Brussels,11,GPE,2022,3,4,50.8465573,4.351697,Belgium,Brussels,cnn
+Brazil,9,GPE,2022,3,4,-10.3333333,-53.2,Brazil,,cnn
+Hawaii,8,GPE,2022,3,4,19.5938015,-155.4283701,United States,,cnn
+Moscow,6,GPE,2022,3,4,55.7504461,37.6174943,Russia,Moscow,cnn
+United States,6,GPE,2022,3,4,39.7837304,-100.445882,United States,,cnn
+California,6,GPE,2022,3,4,36.7014631,-118.755997,United States,,cnn
+Romania,5,GPE,2022,3,4,45.9852129,24.6859225,Romania,,cnn
+Singapore,4,GPE,2022,3,4,1.357107,103.8194992,Singapore,Singapore,cnn
+China,4,GPE,2022,3,4,35.000074,104.999927,China,,cnn
+Washington,4,GPE,2022,3,4,38.8950368,-77.0365427,United States,Washington,cnn
+Mykolaiv,3,GPE,2022,3,4,47.3886032,31.9442334,Ukraine,,cnn
+Germany,3,GPE,2022,3,4,51.0834196,10.4234469,Germany,,cnn
+France,3,GPE,2022,3,4,46.603354,1.8883335,France,,cnn
+Kherson,3,GPE,2022,3,4,46.5421715,33.4079326,Ukraine,,cnn
+Europe,22,LOC,2022,3,4,,,,,cnn
+Kyiv,8,LOC,2022,3,4,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Mykolaiv Oblast,1,LOC,2022,3,4,46.9423408,32.0382517,Ukraine,Mykolaiv,cnn
+Sakhalin Island,1,LOC,2022,3,4,,,,,cnn
+Ukraine,111,GPE,2022,3,5,49.4871968,31.2718321,Ukraine,,cnn
+Russia,73,GPE,2022,3,5,64.6863136,97.7453061,Russia,,cnn
+United States,36,GPE,2022,3,5,39.7837304,-100.445882,United States,,cnn
+Poland,32,GPE,2022,3,5,52.215933,19.134422,Poland,,cnn
+Mariupol,16,GPE,2022,3,5,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Israel,9,GPE,2022,3,5,31.5313113,34.8667654,Israel,Lachish Regional Council,cnn
+Moscow,7,GPE,2022,3,5,55.7504461,37.6174943,Russia,Moscow,cnn
+Volnovakha,7,GPE,2022,3,5,47.5984285,37.4998511,Ukraine,,cnn
+China,6,GPE,2022,3,5,35.000074,104.999927,China,,cnn
+United States,6,GPE,2022,3,5,39.7837304,-100.445882,United States,,cnn
+Donbas,5,GPE,2022,3,5,48.1032,38.5921,Ukraine,Donbas,cnn
+Chernobyl,5,GPE,2022,3,5,51.2705477,30.2195609,Ukraine,Chernobyl,cnn
+United Kingdom,5,GPE,2022,3,5,54.7023545,-3.2765753,United Kingdom,,cnn
+Germany,4,GPE,2022,3,5,51.0834196,10.4234469,Germany,,cnn
+Kyiv,4,GPE,2022,3,5,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+South Africa,3,GPE,2022,3,5,,,,,cnn
+Beijing,2,GPE,2022,3,5,39.906217,116.3912757,China,Beijing,cnn
+Berlin,2,GPE,2022,3,5,52.5170365,13.3888599,Germany,Berlin,cnn
+Kyiv,7,LOC,2022,3,5,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Europe,7,LOC,2022,3,5,,,,,cnn
+Black Sea,3,LOC,2022,3,5,43.87280435,33.99381559,,,cnn
+Aegean Sea,2,LOC,2022,3,5,38.0580504,25.72156117,Greece,,cnn
+Strait of Dardanelles,1,LOC,2022,3,5,,,,,cnn
+North Aegean,1,LOC,2022,3,5,39,25,,,cnn
+Ukraine,78,GPE,2022,3,6,49.4871968,31.2718321,Ukraine,,cnn
+Russia,67,GPE,2022,3,6,64.6863136,97.7453061,Russia,,cnn
+United States,15,GPE,2022,3,6,39.7837304,-100.445882,United States,,cnn
+Israel,10,GPE,2022,3,6,31.5313113,34.8667654,Israel,Lachish Regional Council,cnn
+Poland,8,GPE,2022,3,6,52.215933,19.134422,Poland,,cnn
+St. Petersburg,7,GPE,2022,3,6,59.938732,30.316229,Russia,St. Petersburg,cnn
+Moscow,6,GPE,2022,3,6,55.7504461,37.6174943,Russia,Moscow,cnn
+United Kingdom,6,GPE,2022,3,6,54.7023545,-3.2765753,United Kingdom,,cnn
+South Korea,5,GPE,2022,3,6,36.638392,127.6961188,South Korea,Cheongju-si,cnn
+Kyiv,5,GPE,2022,3,6,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Kherson,4,GPE,2022,3,6,46.5421715,33.4079326,Ukraine,,cnn
+Mykoliav,4,GPE,2022,3,6,,,,,cnn
+United States,3,GPE,2022,3,6,39.7837304,-100.445882,United States,,cnn
+Belarus,3,GPE,2022,3,6,53.4250605,27.6971358,Belarus,,cnn
+Irpin River,3,GPE,2022,3,6,50.5300778,30.2179137,Ukraine,,cnn
+Japan,2,GPE,2022,3,6,36.5748441,139.2394179,Japan,Kiryu,cnn
+Lviv,2,GPE,2022,3,6,49.841952,24.0315921,Ukraine,Lviv,cnn
+Kyiv,13,LOC,2022,3,6,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Vinnytsia,1,LOC,2022,3,6,48.8990315,28.516068,Ukraine,,cnn
+Transnitsia,1,LOC,2022,3,6,,,,,cnn
+Black Sea,1,LOC,2022,3,6,43.87280435,33.99381559,,,cnn
+Eastern Europe,1,LOC,2022,3,6,,,,,cnn
+Europe,1,LOC,2022,3,6,,,,,cnn
+Africa,1,LOC,2022,3,6,,,,,cnn
+Ukraine,76,GPE,2022,3,7,49.4871968,31.2718321,Ukraine,,cnn
+Russia,68,GPE,2022,3,7,64.6863136,97.7453061,Russia,,cnn
+United States,38,GPE,2022,3,7,39.7837304,-100.445882,United States,,cnn
+Kyiv,9,GPE,2022,3,7,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Poland,9,GPE,2022,3,7,52.215933,19.134422,Poland,,cnn
+Belarus,8,GPE,2022,3,7,53.4250605,27.6971358,Belarus,,cnn
+Moscow,7,GPE,2022,3,7,55.7504461,37.6174943,Russia,Moscow,cnn
+Venezuela,6,GPE,2022,3,7,8.0018709,-66.1109318,Venezuela,,cnn
+Romania,6,GPE,2022,3,7,45.9852129,24.6859225,Romania,,cnn
+Australia,5,GPE,2022,3,7,-24.7761086,134.755,Australia,,cnn
+Germany,5,GPE,2022,3,7,51.0834196,10.4234469,Germany,,cnn
+Hungary,5,GPE,2022,3,7,47.1817585,19.5060937,Hungary,Pusztavacs,cnn
+United States,4,GPE,2022,3,7,39.7837304,-100.445882,United States,,cnn
+Greece,4,GPE,2022,3,7,38.9953683,21.9877132,Greece,,cnn
+Georgia,4,GPE,2022,3,7,42.3154,43.3569,Georgia,,cnn
+Mariupol,3,GPE,2022,3,7,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+United States,3,GPE,2022,3,7,39.7837304,-100.445882,United States,,cnn
+Iran,3,GPE,2022,3,7,32.6475314,54.5643516,Iran,,cnn
+Chaplynka,3,GPE,2022,3,7,46.3617756,33.5380219,Ukraine,,cnn
+Russia,3,GPE,2022,3,7,64.6863136,97.7453061,Germany,Berlin,cnn
+Kyiv,10,LOC,2022,3,7,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Europe,6,LOC,2022,3,7,,,,,cnn
+Azov Sea,1,LOC,2022,3,7,46.196729,36.73570655,,,cnn
+Dnieper River,1,LOC,2022,3,7,48.828,34.091,Ukraine,,cnn
+Ukraine,97,GPE,2022,3,8,49.4871968,31.2718321,Ukraine,,cnn
+Russia,69,GPE,2022,3,8,64.6863136,97.7453061,Russia,,cnn
+United States,61,GPE,2022,3,8,39.7837304,-100.445882,United States,,cnn
+Poland,31,GPE,2022,3,8,52.215933,19.134422,Poland,,cnn
+Japan,11,GPE,2022,3,8,36.5748441,139.2394179,Japan,Kiryu,cnn
+Moscow,8,GPE,2022,3,8,55.7504461,37.6174943,Russia,Moscow,cnn
+United States,7,GPE,2022,3,8,39.7837304,-100.445882,United States,,cnn
+Iran,7,GPE,2022,3,8,32.6475314,54.5643516,Iran,,cnn
+Kyiv,6,GPE,2022,3,8,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Chernobyl,5,GPE,2022,3,8,51.2705477,30.2195609,Ukraine,Chernobyl,cnn
+America,4,GPE,2022,3,8,,,,,cnn
+Belarus,4,GPE,2022,3,8,53.4250605,27.6971358,Belarus,,cnn
+Germany,4,GPE,2022,3,8,51.0834196,10.4234469,Germany,,cnn
+Israel,4,GPE,2022,3,8,31.5313113,34.8667654,Israel,Lachish Regional Council,cnn
+Venezuela,3,GPE,2022,3,8,8.0018709,-66.1109318,Venezuela,,cnn
+Hungary,3,GPE,2022,3,8,47.1817585,19.5060937,Hungary,Pusztavacs,cnn
+United States,2,GPE,2022,3,8,39.7837304,-100.445882,United States,,cnn
+Caracas,2,GPE,2022,3,8,10.506098,-66.9146017,Venezuela,Caracas,cnn
+Romania,2,GPE,2022,3,8,45.9852129,24.6859225,Romania,,cnn
+Warsaw,2,GPE,2022,3,8,52.2319581,21.0067249,Poland,Warsaw,cnn
+Europe,5,LOC,2022,3,8,,,,,cnn
+Black Sea,2,LOC,2022,3,8,43.87280435,33.99381559,,,cnn
+Kyiv,2,LOC,2022,3,8,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Africa,1,LOC,2022,3,8,,,,,cnn
+Western Europe,1,LOC,2022,3,8,,,,,cnn
+Ukraine,80,GPE,2022,3,9,49.4871968,31.2718321,Ukraine,,cnn
+Russia,45,GPE,2022,3,9,64.6863136,97.7453061,Russia,,cnn
+United States,36,GPE,2022,3,9,39.7837304,-100.445882,United States,,cnn
+Mariupol,22,GPE,2022,3,9,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Poland,17,GPE,2022,3,9,52.215933,19.134422,Poland,,cnn
+Kyiv,8,GPE,2022,3,9,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+China,6,GPE,2022,3,9,35.000074,104.999927,China,,cnn
+United States,5,GPE,2022,3,9,39.7837304,-100.445882,United States,,cnn
+Donetsk,5,GPE,2022,3,9,48.0158753,37.8013407,Ukraine,Donetsk,cnn
+Germany,5,GPE,2022,3,9,51.0834196,10.4234469,Germany,,cnn
+Zhytomyr,5,GPE,2022,3,9,50.9080532,28.3867504,Ukraine,,cnn
+Washington,3,GPE,2022,3,9,38.8950368,-77.0365427,United States,Washington,cnn
+United Kingdom,3,GPE,2022,3,9,54.7023545,-3.2765753,United Kingdom,,cnn
+Mykolaiv,3,GPE,2022,3,9,47.3886032,31.9442334,Ukraine,,cnn
+Russia,2,GPE,2022,3,9,64.6863136,97.7453061,Russia,,cnn
+Chernobyl,2,GPE,2022,3,9,55.7558,30.2195609,Ukraine,Chernobyl,cnn
+Kyiv,9,LOC,2022,3,9,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Europe,5,LOC,2022,3,9,,,,,cnn
+Bay Area,1,LOC,2022,3,9,37.8272,122.29,United States,,cnn
+Kiev,1,LOC,2022,3,9,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Ukraine,90,GPE,2022,3,10,49.4871968,31.2718321,Ukraine,,cnn
+Russia,76,GPE,2022,3,10,64.6863136,97.7453061,Russia,,cnn
+United States,43,GPE,2022,3,10,39.7837304,-100.445882,United States,,cnn
+Belarus,10,GPE,2022,3,10,53.4250605,27.6971358,Belarus,,cnn
+China,9,GPE,2022,3,10,35.000074,104.999927,China,,cnn
+United States,8,GPE,2022,3,10,39.7837304,-100.445882,United States,,cnn
+Mariupol,7,GPE,2022,3,10,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Chernihiv,7,GPE,2022,3,10,51.272593,31.7417235,Ukraine,,cnn
+Kyiv,7,GPE,2022,3,10,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Chernobyl,5,GPE,2022,3,10,51.2705477,30.2195609,Ukraine,Chernobyl,cnn
+Moscow,4,GPE,2022,3,10,55.7504461,37.6174943,Russia,Moscow,cnn
+Washington,3,GPE,2022,3,10,38.8950368,-77.0365427,United States,Washington,cnn
+San Diego,3,GPE,2022,3,10,32.7174202,-117.1627728,United States,San Diego,cnn
+Mexico,3,GPE,2022,3,10,23.6585116,-102.0077097,Mexico,,cnn
+South Sudan,2,GPE,2022,3,10,7.8699431,29.6667897,South Sudan,,cnn
+Hostomel,2,GPE,2022,3,10,50.58826,30.25909,Ukraine,,cnn
+United Kingdom,2,GPE,2022,3,10,54.7023545,-3.2765753,United Kingdom,,cnn
+Kharkiv,2,GPE,2022,3,10,49.9923181,36.2310146,Ukraine,Kharkiv,cnn
+Versailles,2,GPE,2022,3,10,48.8035403,2.1266886,France,Versailles,cnn
+Kyiv,8,LOC,2022,3,10,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Kherson Oblast,1,LOC,2022,3,10,46.6384675,32.5635069,Russia,Kherson,cnn
+Europe,1,LOC,2022,3,10,,,,,cnn
+Ukraine,98,GPE,2022,3,11,49.4871968,31.2718321,Ukraine,,cnn
+Russia,56,GPE,2022,3,11,64.6863136,97.7453061,Russia,,cnn
+United States,30,GPE,2022,3,11,39.7837304,-100.445882,United States,,cnn
+Spain,10,GPE,2022,3,11,39.3260685,-4.8379791,Spain,,cnn
+United States,6,GPE,2022,3,11,39.7837304,-100.445882,United States,,cnn
+Chernobyl,5,GPE,2022,3,11,51.2705477,30.2195609,Ukraine,Chernobyl,cnn
+Kyiv,5,GPE,2022,3,11,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Lutsk,5,GPE,2022,3,11,50.7450733,25.320078,Ukraine,Lutsk,cnn
+Italy,4,GPE,2022,3,11,42.6384261,12.674297,Italy,Terni,cnn
+Poland,4,GPE,2022,3,11,52.215933,19.134422,Poland,,cnn
+Donbas,3,GPE,2022,3,11,48.1032,38.5921,Ukraine,Donbas,cnn
+Mykolaiv,3,GPE,2022,3,11,47.3886032,31.9442334,Ukraine,,cnn
+Belarus,3,GPE,2022,3,11,53.4250605,27.6971358,Belarus,,cnn
+Mariupol,3,GPE,2022,3,11,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Melitopol,2,GPE,2022,3,11,46.8400009,35.35786473,Ukraine,Melitopol,cnn
+Hostomel,2,GPE,2022,3,11,50.58826,30.25909,Ukraine,,cnn
+United States,2,GPE,2022,3,11,39.7837304,95.7129,Unites States,,cnn
+Volnovakha,2,GPE,2022,3,11,47.5984285,37.4998511,Ukraine,,cnn
+Baryshivka,2,GPE,2022,3,11,50.3645295,31.3256722,Ukraine,,cnn
+Kyiv,11,LOC,2022,3,11,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Europe,5,LOC,2022,3,11,,,,,cnn
+Brovary,2,LOC,2022,3,11,50.5111168,30.7900482,Ukraine,Brovary,cnn
+Middle East,2,LOC,2022,3,11,,,,,cnn
+Black Sea,2,LOC,2022,3,11,43.87280435,33.99381559,,,cnn
+Dnieper River,1,LOC,2022,3,11,48.828,34.091,Ukraine,,cnn
+Azov Sea,1,LOC,2022,3,11,46.196729,36.73570655,,,cnn
+Ukraine,106,GPE,2022,3,12,49.4871968,31.2718321,Ukraine,,cnn
+Russia,48,GPE,2022,3,12,64.6863136,97.7453061,Russia,,cnn
+United States,24,GPE,2022,3,12,39.7837304,-100.445882,United States,,cnn
+Poland,7,GPE,2022,3,12,52.215933,19.134422,Poland,,cnn
+Moscow,6,GPE,2022,3,12,55.7504461,37.6174943,Russia,Moscow,cnn
+Germany,6,GPE,2022,3,12,51.0834196,10.4234469,Germany,,cnn
+Kyiv,5,GPE,2022,3,12,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+United States,5,GPE,2022,3,12,39.7837304,-100.445882,United States,,cnn
+Mariupol,5,GPE,2022,3,12,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Makariv,5,GPE,2022,3,12,50.4581787,29.80645794,Ukraine,,cnn
+Melitopol,3,GPE,2022,3,12,46.8400009,35.35786473,Ukraine,Melitopol,cnn
+Chernobyl,3,GPE,2022,3,12,51.2705477,30.2195609,Ukraine,Chernobyl,cnn
+Lviv,2,GPE,2022,3,12,49.841952,24.0315921,Ukraine,Lviv,cnn
+Russia,2,GPE,2022,3,12,64.6863136,97.7453061,Russia,,cnn
+Romania,2,GPE,2022,3,12,45.9852129,24.6859225,Romania,,cnn
+United States,2,GPE,2022,3,12,39.7837304,-100.445882,United States,,cnn
+People's Republic of Kherson,2,GPE,2022,3,12,,,,,cnn
+Iran,2,GPE,2022,3,12,32.6475314,54.5643516,Iran,,cnn
+Kyiv,7,LOC,2022,3,12,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Europe,3,LOC,2022,3,12,,,,,cnn
+Black Sea,1,LOC,2022,3,12,43.87280435,33.99381559,,,cnn
+Dniepr River,1,LOC,2022,3,12,48.828,34.091,Ukraine,,cnn
+Ukraine,106,GPE,2022,3,13,49.4871968,31.2718321,Ukraine,,cnn
+Russia,61,GPE,2022,3,13,64.6863136,97.7453061,Russia,,cnn
+United States,24,GPE,2022,3,13,39.7837304,-100.445882,United States,,cnn
+China,14,GPE,2022,3,13,35.000074,104.999927,China,,cnn
+United Kingdom,13,GPE,2022,3,13,54.7023545,-3.2765753,United Kingdom,,cnn
+Irpin River,8,GPE,2022,3,13,50.5300778,30.2179137,Ukraine,,cnn
+Chernobyl,8,GPE,2022,3,13,51.2705477,30.2195609,Ukraine,Chernobyl,cnn
+Mariupol,7,GPE,2022,3,13,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Kherson,7,GPE,2022,3,13,46.5421715,33.4079326,Ukraine,,cnn
+Australia,5,GPE,2022,3,13,-24.7761086,134.755,Australia,,cnn
+Poland,5,GPE,2022,3,13,52.215933,19.134422,Poland,,cnn
+Kyiv,5,GPE,2022,3,13,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Latvia,5,GPE,2022,3,13,56.8406494,24.7537645,Latvia,Ogresgala pagasts,cnn
+Beijing,4,GPE,2022,3,13,39.906217,116.3912757,China,Beijing,cnn
+Moscow,4,GPE,2022,3,13,55.7504461,37.6174943,Russia,Moscow,cnn
+Ireland,4,GPE,2022,3,13,52.865196,-7.9794599,Ireland,,cnn
+Snake Island,3,GPE,2022,3,13,45.2543,30.2045,Ukraine,,cnn
+Kyiv,15,LOC,2022,3,13,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Irpin River,5,LOC,2022,3,13,50.5300778,30.2179137,Ukraine,,cnn
+Black Sea,4,LOC,2022,3,13,43.87280435,33.99381559,,,cnn
+Irpin River,2,LOC,2022,3,13,50.509925,30.2583788,Ukraine,,cnn
+Po,1,LOC,2022,3,13,43.2957547,-0.3685668,France,,cnn
+Black Sea,1,LOC,2022,3,13,43.87280435,33.99381559,,,cnn
+Pripyat River,1,LOC,2022,3,13,52.108,27.602,,,cnn
+Luhansk,1,LOC,2022,3,13,49.2724587,38.9150477,Ukraine,,cnn
+Berdyansk,1,LOC,2022,3,13,46.755678,36.7887623,Ukraine,Berdiansk,cnn
+Black and Azov Seas,1,LOC,2022,3,13,,,,,cnn
+Baltic Sea,1,LOC,2022,3,13,56,18,,,cnn
+Baltic Sea,1,LOC,2022,3,13,56,18,,,cnn
+Ukraine,83,GPE,2022,3,14,49.4871968,31.2718321,Ukraine,,cnn
+Russia,51,GPE,2022,3,14,64.6863136,97.7453061,Russia,,cnn
+United States,36,GPE,2022,3,14,39.7837304,-100.445882,United States,,cnn
+China,34,GPE,2022,3,14,35.000074,104.999927,China,,cnn
+Kyiv,10,GPE,2022,3,14,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Moscow,7,GPE,2022,3,14,55.7504461,37.6174943,Russia,Moscow,cnn
+United Kingdom,6,GPE,2022,3,14,54.7023545,-3.2765753,United Kingdom,,cnn
+Poland,5,GPE,2022,3,14,52.215933,19.134422,Poland,,cnn
+Mariupol,4,GPE,2022,3,14,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Beijing,3,GPE,2022,3,14,39.906217,116.3912757,China,Beijing,cnn
+Rome,3,GPE,2022,3,14,41.8933203,12.4829321,Italy,Rome,cnn
+Moschun,3,GPE,2022,3,14,50.6046106,30.3081105,Ukraine,,cnn
+South Korea,2,GPE,2022,3,14,36.638392,127.6961188,South Korea,Cheongju-si,cnn
+Vladivostok,2,GPE,2022,3,14,43.1150678,131.8855768,Russia,Vladivostok,cnn
+Irpin River,2,GPE,2022,3,14,50.5300778,30.2179137,Ukraine,,cnn
+North Korea,2,GPE,2022,3,14,40.3736611,127.0870417,North Korea,,cnn
+Mykolaiv,2,GPE,2022,3,14,47.3886032,31.9442334,Ukraine,,cnn
+Germany,2,GPE,2022,3,14,51.0834196,10.4234469,Germany,,cnn
+Romania,2,GPE,2022,3,14,45.9852129,24.6859225,Romania,,cnn
+Europe,9,LOC,2022,3,14,,,,,cnn
+Kyiv,8,LOC,2022,3,14,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Asia,3,LOC,2022,3,14,,,,,cnn
+Ozera,1,LOC,2022,3,14,48.990318,33.955017,Ukraine,,cnn
+Irpin River,1,LOC,2022,3,14,50.5300778,30.2179137,Ukraine,,cnn
+Ukraine,163,GPE,2022,3,15,49.4871968,31.2718321,Ukraine,,cnn
+United States,61,GPE,2022,3,15,39.7837304,-100.445882,United States,,cnn
+Russia,59,GPE,2022,3,15,64.6863136,97.7453061,Russia,,cnn
+Poland,10,GPE,2022,3,15,52.215933,19.134422,Poland,,cnn
+Slovenia,8,GPE,2022,3,15,45.8133113,14.4808369,Slovenia,,cnn
+Kyiv,8,GPE,2022,3,15,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Brussels,8,GPE,2022,3,15,50.8465573,4.351697,Belgium,Brussels,cnn
+Czech Republic,6,GPE,2022,3,15,49.8175,15.473,Czech Republic,,cnn
+United Kingdom,6,GPE,2022,3,15,54.7023545,-3.2765753,United Kingdom,,cnn
+United States,6,GPE,2022,3,15,39.7837304,-100.445882,United States,,cnn
+Mariupol,6,GPE,2022,3,15,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Chernobyl,3,GPE,2022,3,15,51.2705477,30.2195609,Ukraine,Chernobyl,cnn
+Canada,3,GPE,2022,3,15,61.0666922,-107.991707,Canada,,cnn
+Jana,2,GPE,2022,3,15,8.0300284,-1.0800271,Ghana,,cnn
+Saudi Arabia,2,GPE,2022,3,15,25.6242618,42.3528328,Saudi Arabia,,cnn
+Riyadh,2,GPE,2022,3,15,24.638916,46.7160104,Saudi Arabia,Riyadh,cnn
+Czech Republic,2,GPE,2022,3,15,49.8167003,15.4749544,Czech Republic,,cnn
+China,2,GPE,2022,3,15,35.000074,104.999927,China,,cnn
+Kyiv,14,LOC,2022,3,15,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Europe,8,LOC,2022,3,15,,,,,cnn
+Mariupol,2,LOC,2022,3,15,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Sumy,1,LOC,2022,3,15,50.90007875,34.80904073,Ukraine,Sumy,cnn
+Ukraine,104,GPE,2022,3,16,49.4871968,31.2718321,Ukraine,,cnn
+Russia,38,GPE,2022,3,16,64.6863136,97.7453061,Russia,,cnn
+United States,34,GPE,2022,3,16,39.7837304,-100.445882,United States,,cnn
+Mariupol,19,GPE,2022,3,16,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Odesa,7,GPE,2022,3,16,46.4843023,30.7322878,Ukraine,Odesa,cnn
+Slovakia,7,GPE,2022,3,16,48.7411522,19.4528646,Slovakia,Ľubietová,cnn
+Zaporizhzhia,3,GPE,2022,3,16,47.8507859,35.1182867,Ukraine,Zaporizhzhia,cnn
+Volnovakha,3,GPE,2022,3,16,47.5984285,37.4998511,Ukraine,,cnn
+Donbas,3,GPE,2022,3,16,48.1032,38.5921,Ukraine,Donbas,cnn
+Chernihiv,3,GPE,2022,3,16,51.272593,31.7417235,Ukraine,,cnn
+Kyiv,3,GPE,2022,3,16,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Moscow,3,GPE,2022,3,16,55.7504461,37.6174943,Russia,Moscow,cnn
+Germany,2,GPE,2022,3,16,51.0834196,10.4234469,Germany,,cnn
+Canada,2,GPE,2022,3,16,61.0666922,-107.991707,Canada,,cnn
+Melitopol,2,GPE,2022,3,16,46.8400009,35.35786473,Ukraine,Melitopol,cnn
+United States,2,GPE,2022,3,16,39.7837304,-100.445882,United States,Averill,cnn
+Greece,2,GPE,2022,3,16,38.9953683,21.9877132,Greece,,cnn
+Kyiv,6,LOC,2022,3,16,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Black Sea,2,LOC,2022,3,16,43.87280435,33.99381559,,,cnn
+Berdyansk,1,LOC,2022,3,16,46.755678,36.7887623,Ukraine,Berdiansk,cnn
+Eastern Military District,1,LOC,2022,3,16,59.3334319,137.3888272,Russia,,cnn
+Mariupol,1,LOC,2022,3,16,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Black Sea,1,LOC,2022,3,16,43.87280435,33.99381559,,,cnn
+Luhansk,1,LOC,2022,3,16,49.2724587,38.9150477,Ukraine,,cnn
+Ukraine,79,GPE,2022,3,17,49.4871968,31.2718321,Ukraine,,cnn
+Russia,64,GPE,2022,3,17,64.6863136,97.7453061,Russia,,cnn
+United States,36,GPE,2022,3,17,39.7837304,-100.445882,United States,,cnn
+China,19,GPE,2022,3,17,35.000074,104.999927,China,,cnn
+Israel,12,GPE,2022,3,17,31.5313113,34.8667654,Israel,Lachish Regional Council,cnn
+Mariupol,11,GPE,2022,3,17,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Syria,8,GPE,2022,3,17,34.6401861,39.0494106,Syria,,cnn
+Australia,7,GPE,2022,3,17,-24.7761086,134.755,Australia,,cnn
+Moscow,5,GPE,2022,3,17,55.7504461,37.6174943,Russia,Moscow,cnn
+Germany,4,GPE,2022,3,17,51.0834196,10.4234469,Germany,,cnn
+Rubizhne,3,GPE,2022,3,17,49.0222573,38.3667937,Ukraine,,cnn
+United States,3,GPE,2022,3,17,39.7837304,-100.445882,United States,,cnn
+Kharkiv,3,GPE,2022,3,17,49.9923181,36.2310146,Ukraine,Kharkiv,cnn
+Beijing,3,GPE,2022,3,17,39.906217,116.3912757,China,Beijing,cnn
+Minnesota,3,GPE,2022,3,17,45.9896587,-94.6113288,United States,,cnn
+Berlin,3,GPE,2022,3,17,52.5170365,13.3888599,Germany,Berlin,cnn
+Zaporizhzhia,3,GPE,2022,3,17,47.8507859,35.1182867,Ukraine,Zaporizhzhia,cnn
+Velykoburlutska,3,GPE,2022,3,17,,,,,cnn
+Ireland,3,GPE,2022,3,17,52.865196,-7.9794599,Ireland,,cnn
+California,2,GPE,2022,3,17,36.7014631,-118.755997,United States,,cnn
+Kyiv,3,LOC,2022,3,17,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Crimea,1,LOC,2022,3,17,45.28350435,34.20081878,Ukraine,,cnn
+Southern Military District,1,LOC,2022,3,17,46.21767845,43.64939328,Russia,,cnn
+Black Sea,1,LOC,2022,3,17,43.87280435,33.99381559,,,cnn
+Ukraine,93,GPE,2022,3,18,49.4871968,31.2718321,Ukraine,,cnn
+United States,58,GPE,2022,3,18,39.7837304,-100.445882,United States,,cnn
+Russia,53,GPE,2022,3,18,64.6863136,97.7453061,Russia,,cnn
+China,15,GPE,2022,3,18,35.000074,104.999927,China,,cnn
+Poland,10,GPE,2022,3,18,52.215933,19.134422,Poland,,cnn
+Norway,7,GPE,2022,3,18,60.5000209,9.0999715,Norway,,cnn
+Mariupol,6,GPE,2022,3,18,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+United States,6,GPE,2022,3,18,39.7837304,-100.445882,United States,,cnn
+Vinnytsia,5,GPE,2022,3,18,48.8990315,28.516068,Ukraine,,cnn
+Lithuania,5,GPE,2022,3,18,55.3500003,23.7499997,Lithuania,,cnn
+Estonia,5,GPE,2022,3,18,58.7523778,25.3319078,Estonia,,cnn
+Bulgaria,5,GPE,2022,3,18,42.6073975,25.4856617,Bulgaria,,cnn
+New Zealand,3,GPE,2022,3,18,-41.5000831,172.8344077,New Zealand,,cnn
+Latvia,3,GPE,2022,3,18,56.8406494,24.7537645,Latvia,Ogresgala pagasts,cnn
+Belarus,3,GPE,2022,3,18,53.4250605,27.6971358,Belarus,,cnn
+Donetsk,2,GPE,2022,3,18,48.0158753,37.8013407,Ukraine,Donetsk,cnn
+Kyiv,9,LOC,2022,3,18,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Black Sea,2,LOC,2022,3,18,43.87280435,33.99381559,,,cnn
+Sumy,1,LOC,2022,3,18,50.90007875,34.80904073,Ukraine,Sumy,cnn
+Dnipro,1,LOC,2022,3,18,51.9191343,30.8243039,Ukraine,,cnn
+Black Sea,1,LOC,2022,3,18,43.87280435,33.99381559,,,cnn
+Middle East,1,LOC,2022,3,18,,,,,cnn
+Ukraine,115,GPE,2022,3,19,49.4871968,31.2718321,Ukraine,,cnn
+Russia,68,GPE,2022,3,19,64.6863136,97.7453061,Russia,,cnn
+Mariupol,18,GPE,2022,3,19,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+United States,18,GPE,2022,3,19,39.7837304,-100.445882,United States,,cnn
+Moscow,8,GPE,2022,3,19,55.7504461,37.6174943,Russia,Moscow,cnn
+Kyiv,6,GPE,2022,3,19,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Zaporizhzhia,6,GPE,2022,3,19,47.8507859,35.1182867,Ukraine,Zaporizhzhia,cnn
+Italy,6,GPE,2022,3,19,42.6384261,12.674297,Italy,Terni,cnn
+Kherson,5,GPE,2022,3,19,46.5421715,33.4079326,Ukraine,,cnn
+China,5,GPE,2022,3,19,35.000074,104.999927,China,,cnn
+Switzerland,4,GPE,2022,3,19,46.7985624,8.2319736,Switzerland,Sachseln,cnn
+Poland,4,GPE,2022,3,19,52.215933,19.134422,Poland,,cnn
+Germany,4,GPE,2022,3,19,51.0834196,10.4234469,Germany,,cnn
+Mykolaiv,3,GPE,2022,3,19,47.3886032,31.9442334,Ukraine,,cnn
+Delyatin,3,GPE,2022,3,19,48.5329,24.6251,Ukraine,,cnn
+Brussels,3,GPE,2022,3,19,50.8465573,4.351697,Belgium,Brussels,cnn
+Rome,3,GPE,2022,3,19,41.8933203,12.4829321,Italy,Rome,cnn
+Turkey,3,GPE,2022,3,19,38.9597594,34.9249653,Turkey,,cnn
+United Kingdom,2,GPE,2022,3,19,54.7023545,-3.2765753,United Kingdom,,cnn
+Kyiv,12,LOC,2022,3,19,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Europe,4,LOC,2022,3,19,,,,,cnn
+Rostov,2,LOC,2022,3,19,47.2213858,39.7114196,Russia,Rostov-on-Don,cnn
+Black Sea,2,LOC,2022,3,19,43.87280435,33.99381559,,,cnn
+Black Sea,1,LOC,2022,3,19,43.87280435,33.99381559,,,cnn
+Luhansk,1,LOC,2022,3,19,49.2724587,38.9150477,Ukraine,,cnn
+Livoberezhny,1,LOC,2022,3,19,55.8639,37.4717,Ukraine,,cnn
+trans-Atlantic,1,LOC,2022,3,19,47.4770135,-1.3725911,France,,cnn
+Central Asia,1,LOC,2022,3,19,,,,,cnn
+Ukraine,75,GPE,2022,3,20,49.4871968,31.2718321,Ukraine,,cnn
+Russia,52,GPE,2022,3,20,64.6863136,97.7453061,Russia,,cnn
+United States,22,GPE,2022,3,20,39.7837304,-100.445882,United States,,cnn
+Mariupol,19,GPE,2022,3,20,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Moscow,7,GPE,2022,3,20,55.7504461,37.6174943,Russia,Moscow,cnn
+Turkey,7,GPE,2022,3,20,38.9597594,34.9249653,Turkey,,cnn
+Kyiv,6,GPE,2022,3,20,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Chernobyl,4,GPE,2022,3,20,51.2705477,30.2195609,Ukraine,Chernobyl,cnn
+Lviv,3,GPE,2022,3,20,49.841952,24.0315921,Ukraine,Lviv,cnn
+Donbas,2,GPE,2022,3,20,48.1032,38.5921,Ukraine,Donbas,cnn
+Poland,2,GPE,2022,3,20,52.215933,19.134422,Poland,,cnn
+United States,2,GPE,2022,3,20,39.7837304,-100.445882,United States,,cnn
+United Kingdom,2,GPE,2022,3,20,54.7023545,-3.2765753,United Kingdom,,cnn
+Zaporizhzia,2,GPE,2022,3,20,47.8388,35.1396,Ukraine,,cnn
+Berdyansk,2,GPE,2022,3,20,46.755678,36.7887623,Ukraine,Berdiansk,cnn
+United States,1,GPE,2022,3,20,39.7837304,-100.445882,United States,,cnn
+Warsaw,1,GPE,2022,3,20,52.2319581,21.0067249,Poland,Warsaw,cnn
+Brussels,1,GPE,2022,3,20,50.8465573,4.351697,Belgium,Brussels,cnn
+Kyiv,4,LOC,2022,3,20,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Europe,3,LOC,2022,3,20,,,,,cnn
+Podilskyi district,2,LOC,2022,3,20,48.6784597,26.5852225,Ukraine,Kyiv,cnn
+Podilskyi,2,LOC,2022,3,20,48.6784597,26.5852225,Ukraine,Kamianets-Podilskyi,cnn
+Livoberezhny,2,LOC,2022,3,20,55.8639,37.4717,Ukraine,,cnn
+Kyiv,1,LOC,2022,3,20,50.4296064,30.5422094,Ukraine,Kyiv,cnn
+Podil district,1,LOC,2022,3,20,48.6784597,26.5852225,Ukraine,Kyiv,cnn
+Podilskyi District,1,LOC,2022,3,20,48.6784597,26.5852225,Ukraine,Kyiv,cnn
+Berdyansk,1,LOC,2022,3,20,46.755678,36.7887623,Ukraine,Berdiansk,cnn
+Azov Sea,1,LOC,2022,3,20,46.196729,36.73570655,Ukraine,,cnn
+Ukraine,95,GPE,2022,3,21,49.4871968,31.2718321,Ukraine,,cnn
+Russia,43,GPE,2022,3,21,64.6863136,97.7453061,Russia,,cnn
+United States,35,GPE,2022,3,21,39.7837304,-100.445882,United States,,cnn
+Mariupol,12,GPE,2022,3,21,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Poland,12,GPE,2022,3,21,52.215933,19.134422,Poland,,cnn
+Germany,11,GPE,2022,3,21,51.0834196,10.4234469,Germany,,cnn
+Moscow,7,GPE,2022,3,21,55.7504461,37.6174943,Russia,Moscow,cnn
+Kyiv,4,GPE,2022,3,21,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Brussels,4,GPE,2022,3,21,50.8465573,4.351697,Belgium,Brussels,cnn
+Netherlands,3,GPE,2022,3,21,52.15517,5.38721,Netherlands,Amersfoort,cnn
+France,3,GPE,2022,3,21,46.603354,1.8883335,France,,cnn
+United States,3,GPE,2022,3,21,39.7837304,-100.445882,United States,,cnn
+United States,3,GPE,2022,3,21,39.7837304,-100.445882,United States,,cnn
+Donetsk,3,GPE,2022,3,21,48.0158753,37.8013407,Ukraine,Donetsk,cnn
+Toretsk,2,GPE,2022,3,21,48.3970469,37.8501378,Ukraine,,cnn
+Belarus,2,GPE,2022,3,21,53.4250605,27.6971358,Belarus,,cnn
+Romania,2,GPE,2022,3,21,45.9852129,24.6859225,Romania,,cnn
+Kyiv,13,LOC,2022,3,21,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Europe,9,LOC,2022,3,21,50.5300778,30.2179137,,,cnn
+Irpin River,4,LOC,2022,3,21,50.5300778,30.2179137,Ukraine,,cnn
+Black Sea,3,LOC,2022,3,21,43.87280435,33.99381559,,,cnn
+Irpin River,2,LOC,2022,3,21,50.5300778,30.2179137,Ukraine,,cnn
+Dnieper River,1,LOC,2022,3,21,48.828,34.091,Ukraine,,cnn
+Irpin River,1,LOC,2022,3,21,50.5300778,30.2179137,Ukraine,,cnn
+Kharkiv,1,LOC,2022,3,21,49.9923181,36.2310146,Ukraine,Kharkiv,cnn
+Selets,1,LOC,2022,3,21,50.7694145,24.3842576,Ukraine,,cnn
+Podil district,1,LOC,2022,3,21,50.469128,30.516624,Ukraine,Kyiv,cnn
+Ukraine,66,GPE,2022,3,22,49.4871968,31.2718321,Ukraine,,cnn
+Russia,63,GPE,2022,3,22,64.6863136,97.7453061,Russia,,cnn
+United States,51,GPE,2022,3,22,39.7837304,-100.445882,United States,,cnn
+Makariv,13,GPE,2022,3,22,50.4581787,29.80645794,Ukraine,,cnn
+Poland,13,GPE,2022,3,22,52.215933,19.134422,Poland,,cnn
+France,11,GPE,2022,3,22,46.603354,1.8883335,France,,cnn
+Kyiv,10,GPE,2022,3,22,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Belarus,10,GPE,2022,3,22,53.4250605,27.6971358,Belarus,,cnn
+Mariupol,9,GPE,2022,3,22,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Moscow,7,GPE,2022,3,22,55.7504461,37.6174943,Russia,Moscow,cnn
+China,6,GPE,2022,3,22,35.000074,104.999927,China,,cnn
+Kherson,5,GPE,2022,3,22,46.5421715,33.4079326,Ukraine,,cnn
+Paris,4,GPE,2022,3,22,48.8588897,2.320041022,France,,cnn
+Borodyanka,4,GPE,2022,3,22,50.6445,29.9146,Ukraine,,cnn
+Italy,3,GPE,2022,3,22,42.6384261,12.674297,Italy,Terni,cnn
+United States,3,GPE,2022,3,22,39.7837304,-100.445882,United States,,cnn
+Germany,3,GPE,2022,3,22,51.0834196,10.4234469,Germany,,cnn
+Europe,15,LOC,2022,3,22,,,,,cnn
+Kyiv,15,LOC,2022,3,22,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Irpin River,2,LOC,2022,3,22,50.5300778,30.2179137,Ukraine,,cnn
+Kyiv,1,LOC,2022,3,22,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Dnieper River,1,LOC,2022,3,22,48.828,34.091,Ukraine,,cnn
+Irpin River,1,LOC,2022,3,22,50.5300778,30.2179137,Ukraine,,cnn
+Iikraina,1,LOC,2022,3,22,,,,,cnn
+Black Sea,1,LOC,2022,3,22,43.87280435,33.99381559,,,cnn
+Bussia,1,LOC,2022,3,22,44.6114261,7.9625296,Italy,,cnn
+Arctic,1,LOC,2022,3,22,42.1856379,-75.4143448,,,cnn
+Azov Sea,1,LOC,2022,3,22,46.196729,36.73570655,Ukraine,São Bernardo do Campo,cnn
+Azov Sea,1,LOC,2022,3,22,46.196729,36.73570655,Ukraine,,cnn
+Black Sea,1,LOC,2022,3,22,43.87280435,33.99381559,,,cnn
+Antonov,1,LOC,2022,3,22,49.625931,29.783939,Ukraine,,cnn
+Africa,1,LOC,2022,3,22,,,,,cnn
+Russia,77,GPE,2022,3,23,64.6863136,97.7453061,Russia,,cnn
+Ukraine,63,GPE,2022,3,23,49.4871968,31.2718321,Ukraine,,cnn
+United States,35,GPE,2022,3,23,39.7837304,-100.445882,United States,,cnn
+Moscow,11,GPE,2022,3,23,55.7504461,37.6174943,Russia,Moscow,cnn
+Ecuador,5,GPE,2022,3,23,-1.3397668,-79.3666965,Ecuador,,cnn
+Mariupol,4,GPE,2022,3,23,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Indonesia,4,GPE,2022,3,23,-2.4833826,117.8902853,Indonesia,,cnn
+United Kingdom,4,GPE,2022,3,23,54.7023545,-3.2765753,United Kingdom,,cnn
+Brussels,4,GPE,2022,3,23,50.8465573,4.351697,Belgium,Brussels,cnn
+Kyiv,3,GPE,2022,3,23,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+United States,3,GPE,2022,3,23,39.7837304,-100.445882,United States,,cnn
+Jakarta,3,GPE,2022,3,23,-6.1753942,106.827183,Indonesia,Jakarta Special Capital Region,cnn
+Rakivka,3,GPE,2022,3,23,49.0238853,33.4638514,Ukraine,Kremenchuk,cnn
+United Kingdom,2,GPE,2022,3,23,54.7023545,-3.2765753,United Kingdom,,cnn
+Washington,2,GPE,2022,3,23,38.8950368,-77.0365427,United States,Washington,cnn
+Colombia,2,GPE,2022,3,23,4.099917,-72.9088133,Colombia,,cnn
+France,2,GPE,2022,3,23,46.603354,1.8883335,France,,cnn
+Kyiv,17,LOC,2022,3,23,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Europe,5,LOC,2022,3,23,,,,,cnn
+South America,2,LOC,2022,3,23,,,,,cnn
+Irpin River,2,LOC,2022,3,23,50.5300778,30.2179137,Ukraine,,cnn
+Irpin River,1,LOC,2022,3,23,50.5300778,30.2179137,Ukraine,,cnn
+Irpin River,1,LOC,2022,3,23,50.5300778,30.2179137,Ukraine,,cnn
+Irpin River,1,LOC,2022,3,23,50.5300778,30.2179137,Ukraine,,cnn
+Ukraine,119,GPE,2022,3,24,49.4871968,31.2718321,Ukraine,,cnn
+Russia,114,GPE,2022,3,24,64.6863136,97.7453061,Russia,,cnn
+United States,36,GPE,2022,3,24,39.7837304,-100.445882,United States,,cnn
+Brussels,22,GPE,2022,3,24,50.8465573,4.351697,Belgium,Brussels,cnn
+China,13,GPE,2022,3,24,35.000074,104.999927,China,,cnn
+Berdiansk,10,GPE,2022,3,24,46.755678,36.7887623,Ukraine,Berdiansk,cnn
+Belgium,8,GPE,2022,3,24,50.6402809,4.6667145,Belgium,,cnn
+United States,6,GPE,2022,3,24,39.7837304,-100.445882,United States,,cnn
+Poland,6,GPE,2022,3,24,52.215933,19.134422,Poland,,cnn
+Belarus,5,GPE,2022,3,24,53.4250605,27.6971358,Belarus,,cnn
+Chernobyl,5,GPE,2022,3,24,51.2705477,30.2195609,Ukraine,Chernobyl,cnn
+Mariupol,5,GPE,2022,3,24,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Australia,4,GPE,2022,3,24,-24.7761086,134.755,Australia,,cnn
+Hungary,4,GPE,2022,3,24,47.1817585,19.5060937,Hungary,Pusztavacs,cnn
+United Kingdom,4,GPE,2022,3,24,54.7023545,-3.2765753,United Kingdom,,cnn
+France,4,GPE,2022,3,24,46.603354,1.8883335,France,,cnn
+Moscow,3,GPE,2022,3,24,55.7504461,37.6174943,Russia,Moscow,cnn
+Europe,6,LOC,2022,3,24,,,,,cnn
+Kyiv,3,LOC,2022,3,24,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Azov Sea,2,LOC,2022,3,24,46.196729,36.73570655,,,cnn
+Kharkiv,2,LOC,2022,3,24,49.9923181,36.2310146,Ukraine,Kharkiv,cnn
+Donets River,2,LOC,2022,3,24,49.0235376,38.2624823,Ukraine,,cnn
+Eastern Europe,1,LOC,2022,3,24,,,,,cnn
+Asia,1,LOC,2022,3,24,,,,,cnn
+Africa,1,LOC,2022,3,24,,,,,cnn
+ Mariupol,1,LOC,2022,3,24,47.1658714,37.5853256,Ukraine,Mariupol,cnn
+Southern Military District,1,LOC,2022,3,24,,,,,cnn
+Ukraine,86,GPE,2022,3,25,49.4871968,31.2718321,Ukraine,,cnn
+United States,57,GPE,2022,3,25,39.7837304,-100.445882,United States,,cnn
+Russia,57,GPE,2022,3,25,64.6863136,97.7453061,Russia,,cnn
+Poland,26,GPE,2022,3,25,52.215933,19.134422,Poland,,cnn
+United Kingdom,10,GPE,2022,3,25,54.7023545,-3.2765753,United Kingdom,,cnn
+Kherson,10,GPE,2022,3,25,46.5421715,33.4079326,Ukraine,,cnn
+Mariupol,8,GPE,2022,3,25,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Moscow,7,GPE,2022,3,25,55.7504461,37.6174943,Russia,Moscow,cnn
+Georgia,7,GPE,2022,3,25,42.3154,43.3569,Georgia,,cnn
+China,7,GPE,2022,3,25,35.000074,104.999927,China,,cnn
+Kyiv,6,GPE,2022,3,25,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Chernobyl,6,GPE,2022,3,25,51.2705477,30.2195609,Ukraine,Chernobyl,cnn
+Germany,6,GPE,2022,3,25,51.0834196,10.4234469,Germany,,cnn
+Mexico,5,GPE,2022,3,25,23.6585116,-102.0077097,Mexico,,cnn
+Syria,3,GPE,2022,3,25,34.6401861,39.0494106,Syria,,cnn
+France,3,GPE,2022,3,25,46.603354,1.8883335,France,,cnn
+Brussels,3,GPE,2022,3,25,50.8465573,4.351697,Belgium,Brussels,cnn
+Donbas,3,GPE,2022,3,25,48.1032,38.5921,Ukraine,Donbas,cnn
+Kyiv,6,LOC,2022,3,25,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Europe,2,LOC,2022,3,25,,,,,cnn
+Africa,1,LOC,2022,3,25,,,,,cnn
+Berdyansk,1,LOC,2022,3,25,46.755678,36.7887623,Ukraine,Berdiansk,cnn
+Black Sea,1,LOC,2022,3,25,43.87280435,33.99381559,,,cnn
+Azov Sea,1,LOC,2022,3,25,46.196729,36.73570655,,,cnn
+Black Sea,1,LOC,2022,3,25,43.87280435,33.99381559,,,cnn
+Ukraine,51,GPE,2022,3,26,49.4871968,31.2718321,Ukraine,,cnn
+United States,44,GPE,2022,3,26,39.7837304,-100.445882,United States,,cnn
+Russia,25,GPE,2022,3,26,64.6863136,97.7453061,Russia,,cnn
+Warsaw,25,GPE,2022,3,26,52.2319581,21.0067249,Poland,Warsaw,cnn
+Poland,21,GPE,2022,3,26,52.215933,19.134422,Poland,,cnn
+Lviv,15,GPE,2022,3,26,49.841952,24.0315921,Ukraine,Lviv,cnn
+London,7,GPE,2022,3,26,51.5073219,-0.1276474,United Kingdom,Westminster,cnn
+United States,4,GPE,2022,3,26,39.7837304,-100.445882,United States,,cnn
+Slavutych,4,GPE,2022,3,26,51.5201397,30.7562301,Ukraine,,cnn
+Qatar,4,GPE,2022,3,26,25.3336984,51.2295295,Qatar,,cnn
+Mariupol,3,GPE,2022,3,26,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Turkey,3,GPE,2022,3,26,38.9597594,34.9249653,Turkey,,cnn
+Finland,3,GPE,2022,3,26,63.2467777,25.9209164,Finland,,cnn
+United States,2,GPE,2022,3,26,39.7837304,-100.445882,United States,,cnn
+Belarus,2,GPE,2022,3,26,53.4250605,27.6971358,Belarus,,cnn
+Israel,2,GPE,2022,3,26,31.5313113,34.8667654,Israel,Lachish Regional Council,cnn
+Germany,2,GPE,2022,3,26,51.0834196,10.4234469,Germany,,cnn
+United Kingdom,2,GPE,2022,3,26,54.7023545,-3.2765753,United Kingdom,,cnn
+Europe,8,LOC,2022,3,26,,,,,cnn
+Kyiv,2,LOC,2022,3,26,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Dnieper River,1,LOC,2022,3,26,48.828,34.091,Ukraine,,cnn
+Volyn,1,LOC,2022,3,26,51.5451167,24.6627893,Ukraine,,cnn
+Asia,1,LOC,2022,3,26,,,,,cnn
+Stadion Narodowy,1,LOC,2022,3,26,52.2399367,21.0452877,Poland,Warsaw,cnn
+Ukraine,87,GPE,2022,3,27,49.4871968,31.2718321,Ukraine,,cnn
+Russia,83,GPE,2022,3,27,64.6863136,97.7453061,Russia,,cnn
+United States,43,GPE,2022,3,27,39.7837304,-100.445882,United States,,cnn
+Istanbul,11,GPE,2022,3,27,41.0091982,28.9662187,Turkey,Istanbul,cnn
+Moscow,8,GPE,2022,3,27,55.7504461,37.6174943,Russia,Moscow,cnn
+Qatar,8,GPE,2022,3,27,25.3336984,51.2295295,Qatar,,cnn
+Donbas,7,GPE,2022,3,27,48.1032,38.5921,Ukraine,Donbas,cnn
+Warsaw,6,GPE,2022,3,27,52.2319581,21.0067249,Poland,Warsaw,cnn
+Poland,6,GPE,2022,3,27,52.215933,19.134422,Poland,,cnn
+Mariupol,6,GPE,2022,3,27,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Israel,6,GPE,2022,3,27,31.5313113,34.8667654,Israel,Lachish Regional Council,cnn
+South Korea,5,GPE,2022,3,27,36.638392,127.6961188,South Korea,Cheongju-si,cnn
+Russia,5,GPE,2022,3,27,64.6863136,97.7453061,Russia,,cnn
+France,5,GPE,2022,3,27,46.603354,1.8883335,France,,cnn
+United States,5,GPE,2022,3,27,29.6330078,-100.445882,United States,,cnn
+Lviv,5,GPE,2022,3,27,49.841952,24.0315921,Ukraine,Lviv,cnn
+Kharkiv,4,GPE,2022,3,27,49.9923181,36.2310146,Ukraine,Kharkiv,cnn
+Turkey,4,GPE,2022,3,27,38.9597594,34.9249653,Turkey,,cnn
+Kyiv,12,LOC,2022,3,27,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Europe,11,LOC,2022,3,27,,,,,cnn
+Carpathian Mountains,1,LOC,2022,3,27,47.0005707,25.5017192,,,cnn
+Kremlin,1,LOC,2022,3,27,58.2308571,50.44831485,Russia,,cnn
+Capitol Hill,1,LOC,2022,3,27,38.8898027,-77.0094179,United States,Washington,cnn
+Ukraine,111,GPE,2022,3,28,49.4871968,31.2718321,Ukraine,,cnn
+Russia,81,GPE,2022,3,28,64.6863136,97.7453061,Russia,,cnn
+United States,28,GPE,2022,3,28,39.7837304,-100.445882,United States,,cnn
+Mariupol,16,GPE,2022,3,28,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Istanbul,9,GPE,2022,3,28,41.0091982,28.9662187,Turkey,Istanbul,cnn
+Turkey,9,GPE,2022,3,28,38.9597594,34.9249653,Turkey,,cnn
+United Kingdom,8,GPE,2022,3,28,54.7023545,-3.2765753,United Kingdom,,cnn
+Germany,7,GPE,2022,3,28,51.0834196,10.4234469,Germany,,cnn
+Moscow,7,GPE,2022,3,28,55.7504461,37.6174943,Russia,Moscow,cnn
+Poland,6,GPE,2022,3,28,52.215933,19.134422,Poland,,cnn
+Warsaw,5,GPE,2022,3,28,52.2319581,21.0067249,Poland,Warsaw,cnn
+Melitopol,4,GPE,2022,3,28,46.8400009,35.35786473,Ukraine,Melitopol,cnn
+China,3,GPE,2022,3,28,35.000074,104.999927,China,,cnn
+Donbas,3,GPE,2022,3,28,48.1032,38.5921,Ukraine,Donbas,cnn
+United States,2,GPE,2022,3,28,39.7837304,-100.445882,United States,,cnn
+Russia,2,GPE,2022,3,28,64.6863136,97.7453061,Russia,,cnn
+Italy,2,GPE,2022,3,28,42.6384261,12.674297,Italy,Terni,cnn
+Azerbaijan,2,GPE,2022,3,28,40.3936294,47.7872508,Azerbaijan,,cnn
+Europe,10,LOC,2022,3,28,,,,,cnn
+Kyiv,9,LOC,2022,3,28,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Africa,1,LOC,2022,3,28,,,,,cnn
+Mariupol,1,LOC,2022,3,28,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Ukraine,108,GPE,2022,3,29,49.4871968,31.2718321,Ukraine,,cnn
+Russia,75,GPE,2022,3,29,64.6863136,97.7453061,Russia,,cnn
+United States,36,GPE,2022,3,29,39.7837304,-100.445882,United States,,cnn
+Kyiv,13,GPE,2022,3,29,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Mariupol,11,GPE,2022,3,29,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+China,11,GPE,2022,3,29,35.000074,104.999927,China,,cnn
+Istanbul,7,GPE,2022,3,29,41.0091982,28.9662187,Turkey,Istanbul,cnn
+France,7,GPE,2022,3,29,46.603354,1.8883335,France,,cnn
+Moscow,6,GPE,2022,3,29,55.7504461,37.6174943,Russia,Moscow,cnn
+Belgium,6,GPE,2022,3,29,50.6402809,4.6667145,Belgium,,cnn
+Germany,5,GPE,2022,3,29,51.0834196,10.4234469,Germany,,cnn
+Italy,5,GPE,2022,3,29,42.6384261,12.674297,Italy,Terni,cnn
+Poland,5,GPE,2022,3,29,52.215933,19.134422,Poland,,cnn
+Chernobyl,4,GPE,2022,3,29,51.2705477,30.2195609,Ukraine,Chernobyl,cnn
+Turkey,4,GPE,2022,3,29,38.9597594,34.9249653,Turkey,,cnn
+United Kingdom,4,GPE,2022,3,29,54.7023545,-3.2765753,United Kingdom,,cnn
+Ireland,4,GPE,2022,3,29,52.865196,-7.9794599,Ireland,,cnn
+Donbas,3,GPE,2022,3,29,48.1032,38.5921,Ukraine,Donbas,cnn
+Kyiv,18,LOC,2022,3,29,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Europe,3,LOC,2022,3,29,,,,,cnn
+Mariupol,2,LOC,2022,3,29,47.1658714,37.5853256,Ukraine,Mariupol,cnn
+Black Sea,2,LOC,2022,3,29,43.87280435,33.99381559,,,cnn
+Mariupol,1,LOC,2022,3,29,47.1656579,37.5826886,Ukraine,Mariupol,cnn
+Mariupol,1,LOC,2022,3,29,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Kharkiv,1,LOC,2022,3,29,49.9923181,36.2310146,Ukraine,Kharkiv,cnn
+Mediterranean Sea,1,LOC,2022,3,29,34,18,,,cnn
+Ukraine,28,GPE,2022,3,30,49.4871968,31.2718321,Ukraine,,cnn
+Russia,26,GPE,2022,3,30,64.6863136,97.7453061,Russia,,cnn
+United States,14,GPE,2022,3,30,39.7837304,-100.445882,United States,,cnn
+United Kingdom,8,GPE,2022,3,30,54.7023545,-3.2765753,United Kingdom,,cnn
+Donbas,6,GPE,2022,3,30,48.1032,38.5921,Ukraine,Donbas,cnn
+Moscow,3,GPE,2022,3,30,55.7504461,37.6174943,Russia,Moscow,cnn
+Mariupol,3,GPE,2022,3,30,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Belarus,3,GPE,2022,3,30,53.4250605,27.6971358,Belarus,,cnn
+Donetsk,3,GPE,2022,3,30,48.0158753,37.8013407,Ukraine,Donetsk,cnn
+Istanbul,2,GPE,2022,3,30,41.0091982,28.9662187,Turkey,Istanbul,cnn
+Chernihiv,2,GPE,2022,3,30,51.272593,31.7417235,Ukraine,,cnn
+Geneva,1,GPE,2022,3,30,46.2017559,6.1466014,Switzerland,Geneva,cnn
+Russia,1,GPE,2022,3,30,64.6863136,97.7453061,Russia,,cnn
+Aleppo,1,GPE,2022,3,30,36.19924,37.1637253,Syria,Aleppo,cnn
+Vorzel,1,GPE,2022,3,30,50.5457287,30.1562891,Ukraine,,cnn
+Hostomel,1,GPE,2022,3,30,50.58826,30.25909,Ukraine,,cnn
+Vuhledar,1,GPE,2022,3,30,47.7805058,37.2484374,Ukraine,,cnn
+Volnovakha,1,GPE,2022,3,30,47.5984285,37.4998511,Ukraine,,cnn
+Zalizne,1,GPE,2022,3,30,48.3734757,37.8822759,Ukraine,,cnn
+Kyiv,7,LOC,2022,3,30,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Mariupol,2,LOC,2022,3,30,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Europe,2,LOC,2022,3,30,,,,,cnn
+Eastern Europe,1,LOC,2022,3,30,,,,,cnn
+Ukraine,73,GPE,2022,3,31,49.4871968,31.2718321,Ukraine,,cnn
+Russia,57,GPE,2022,3,31,64.6863136,97.7453061,Russia,,cnn
+United States,39,GPE,2022,3,31,39.7837304,-100.445882,United States,,cnn
+Mariupol,16,GPE,2022,3,31,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Donbas,12,GPE,2022,3,31,48.1032,38.5921,Ukraine,Donbas,cnn
+Chernobyl,12,GPE,2022,3,31,51.2705477,30.2195609,Ukraine,Chernobyl,cnn
+Kyiv,8,GPE,2022,3,31,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Berdiansk,8,GPE,2022,3,31,46.755678,36.7887623,Ukraine,Berdiansk,cnn
+Belarus,7,GPE,2022,3,31,53.4250605,27.6971358,Belarus,,cnn
+United Kingdom,7,GPE,2022,3,31,54.7023545,-3.2765753,United Kingdom,,cnn
+France,7,GPE,2022,3,31,46.603354,1.8883335,France,,cnn
+Moscow,7,GPE,2022,3,31,55.7504461,37.6174943,Russia,Moscow,cnn
+Brussels,5,GPE,2022,3,31,50.8465573,4.351697,Belgium,Brussels,cnn
+Zaporizhzhia,5,GPE,2022,3,31,47.8507859,35.1182867,Ukraine,Zaporizhzhia,cnn
+Donetsk,4,GPE,2022,3,31,48.0158753,37.8013407,Ukraine,Donetsk,cnn
+Germany,4,GPE,2022,3,31,51.0834196,10.4234469,Germany,,cnn
+Russia,4,GPE,2022,3,31,64.6863136,97.7453061,Russia,,cnn
+Chernihiv,3,GPE,2022,3,31,51.272593,31.7417235,Ukraine,,cnn
+Berlin,3,GPE,2022,3,31,52.5170365,13.3888599,,,cnn
+Kyiv,13,LOC,2022,3,31,50.4500336,30.5241361,Ukraine,Kyiv,cnn
+Europe,5,LOC,2022,3,31,,,,,cnn
+Mediterranean,2,LOC,2022,3,31,34,18,,,cnn
+Mediterranean Sea,1,LOC,2022,3,31,34,18,,,cnn
+Middle East,1,LOC,2022,3,31,,,,,cnn
+Exclusion Zone,1,LOC,2022,3,31,51.27465545,30.22961355,Ukraine,,cnn
+Exclusion Zone,1,LOC,2022,3,31,51.30769145,29.90142042,Ukraine,,cnn
+Mariupol,1,LOC,2022,3,31,47.0957648,37.5499621,Ukraine,Mariupol,cnn
+Ukraine,70,GPE,2022,3,12,49.4871968,31.2718321,Ukraine,,fox
+Russia,39,GPE,2022,3,12,64.6863136,97.7453061,Russia,,fox
+Poland,12,GPE,2022,3,12,52.215933,19.134422,Poland,,fox
+Mariupol,9,GPE,2022,3,12,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Moscow,9,GPE,2022,3,12,55.7504461,37.6174943,Russia,Moscow,fox
+Melitopol,6,GPE,2022,3,12,46.8400009,35.35786473,Ukraine,Melitopol,fox
+United States,6,GPE,2022,3,12,39.7837304,-100.445882,United States,,fox
+United States,6,GPE,2022,3,12,39.7837304,-100.445882,United States,,fox
+China,6,GPE,2022,3,12,35.000074,104.999927,China,,fox
+Kyiv,4,GPE,2022,3,12,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Romania,4,GPE,2022,3,12,45.9852129,24.6859225,Romania,,fox
+Guatemala,3,GPE,2022,3,12,15.6871007,-90.12265453,Guatemala,,fox
+Israel,2,GPE,2022,3,12,31.5313113,34.8667654,Israel,Lachish Regional Council,fox
+Zaporizhzhia,2,GPE,2022,3,12,47.8507859,35.1182867,Ukraine,Zaporizhzhia,fox
+Hungary,2,GPE,2022,3,12,47.1817585,19.5060937,Hungary,Pusztavacs,fox
+Moldova,2,GPE,2022,3,12,47.2879608,28.5670941,Moldova,,fox
+Wisconsin,1,GPE,2022,3,12,44.4308975,-89.6884637,United States,,fox
+Florida,1,GPE,2022,3,12,27.7567667,-81.4639835,United States,,fox
+St. Petersburg,1,GPE,2022,3,12,59.938732,30.316229,Russia,St. Petersburg,fox
+Grossi,1,GPE,2022,3,12,44.6400119,8.6829999,Italy,Tagliolo Monferrato,fox
+Kyiv,6,LOC,2022,3,12,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Daines,1,LOC,2022,3,12,46.0414516,5.9303162,France,,fox
+Mariupol,1,LOC,2022,3,12,47.1658714,37.5853256,Ukraine,Mariupol,fox
+Europe,1,LOC,2022,3,12,,,,,fox
+Mariupol,1,LOC,2022,3,12,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Dnipro,1,LOC,2022,3,12,51.9191343,30.8243039,Ukraine,,fox
+Ukraine,73,GPE,2022,3,13,49.4871968,31.2718321,Ukraine,,fox
+Russia,49,GPE,2022,3,13,64.6863136,97.7453061,Russia,,fox
+United States ,14,GPE,2022,3,13,39.7837304,-100.445882,United States,,fox
+China,7,GPE,2022,3,13,35.000074,104.999927,China,,fox
+Chernobyl,6,GPE,2022,3,13,51.2705477,30.2195609,Ukraine,Chernobyl,fox
+United States,6,GPE,2022,3,13,39.7837304,-100.445882,United States,,fox
+Poland,5,GPE,2022,3,13,52.215933,19.134422,Poland,,fox
+Philippines,4,GPE,2022,3,13,12.7503486,122.7312101,Philippines,,fox
+Moscow,3,GPE,2022,3,13,55.7504461,37.6174943,Russia,Moscow,fox
+Donetsk,3,GPE,2022,3,13,48.0158753,37.8013407,Ukraine,Donetsk,fox
+Rome,2,GPE,2022,3,13,41.8933203,12.4829321,Italy,Rome,fox
+Kyiv,2,GPE,2022,3,13,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Ternivka,2,GPE,2022,3,13,48.5222847,36.0713939,Ukraine,,fox
+Arkansas,2,GPE,2022,3,13,35.2048883,-92.4479108,United States,,fox
+Manila,2,GPE,2022,3,13,14.5948914,120.9782618,Philippines,Manila,fox
+United Kingdom,2,GPE,2022,3,13,54.7023545,-3.2765753,United Kingdom,,fox
+Iran,1,GPE,2022,3,13,32.6475314,54.5643516,Iran,,fox
+Kyiv,7,LOC,2022,3,13,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Europe,1,LOC,2022,3,13,,,,,fox
+Lviv,1,LOC,2022,3,13,48.29636935,23.66928896,Ukraine,,fox
+Lviv,1,LOC,2022,3,13,48.29636935,23.66928896,Ukraine,,fox
+Ukraine,82,GPE,2022,3,14,49.4871968,31.2718321,Ukraine,,fox
+Russia,58,GPE,2022,3,14,64.6863136,97.7453061,Russia,,fox
+United States,12,GPE,2022,3,14,39.7837304,-100.445882,United States,,fox
+Mariupol,9,GPE,2022,3,14,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Poland,9,GPE,2022,3,14,52.215933,19.134422,Poland,,fox
+Kyiv,8,GPE,2022,3,14,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Estonia,5,GPE,2022,3,14,58.7523778,25.3319078,Estonia,,fox
+London,5,GPE,2022,3,14,51.5073219,-0.1276474,United Kingdom,Westminster,fox
+United States,4,GPE,2022,3,14,39.7837304,-100.445882,United States,,fox
+Israel,4,GPE,2022,3,14,31.5313113,34.8667654,Israel,Lachish Regional Council,fox
+India,3,GPE,2022,3,14,22.3511148,78.6677428,India,,fox
+United States,3,GPE,2022,3,14,39.7837304,-100.445882,United States,,fox
+Greece,3,GPE,2022,3,14,38.9953683,21.9877132,Greece,,fox
+Bulgaria,3,GPE,2022,3,14,42.6073975,25.4856617,Bulgaria,,fox
+China,3,GPE,2022,3,14,35.000074,104.999927,China,,fox
+United Kingdom,2,GPE,2022,3,14,54.7023545,-3.2765753,United Kingdom,,fox
+Ukraine,2,GPE,2022,3,14,54.7023545,-3.2765753,United Kingdom,,fox
+Ukraine,2,GPE,2022,3,14,49.4871968,31.2718321,Ukraine,,fox
+America,2,GPE,2022,3,14,,,,,fox
+Kyiv,4,LOC,2022,3,14,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Europe,2,LOC,2022,3,14,,,,,fox
+Ukraine,22,GPE,2022,3,15,49.4871968,31.2718321,Ukraine,,fox
+Russia,12,GPE,2022,3,15,64.6863136,97.7453061,Russia,,fox
+United States,9,GPE,2022,3,15,39.7837304,-100.445882,United States,,fox
+United States,3,GPE,2022,3,15,39.7837304,-100.445882,United States,,fox
+Kyiv,2,GPE,2022,3,15,50.4500336,30.5241361,Ukraine,Kyiv,fox
+United States,2,GPE,2022,3,15,39.7837304,-100.445882,United States,,fox
+Russia,2,GPE,2022,3,15,64.6863136,97.7453061,Russia,,fox
+Poland,2,GPE,2022,3,15,52.215933,19.134422,Poland,,fox
+Estonia,2,GPE,2022,3,15,58.7523778,25.3319078,Estonia,,fox
+United Kingdom,2,GPE,2022,3,15,54.7023545,-3.2765753,United Kingdom,,fox
+Mariupol,1,GPE,2022,3,15,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Washington,1,GPE,2022,3,15,38.8950368,-77.0365427,United States,Washington,fox
+United States,1,GPE,2022,3,15,39.7837304,-100.445882,United States,,fox
+China,1,GPE,2022,3,15,35.000074,104.999927,China,,fox
+United Kingdom,1,GPE,2022,3,15,54.7023545,-3.2765753,United Kingdom,,fox
+London,1,GPE,2022,3,15,51.5073219,-0.1276474,United Kingdom,Westminster,fox
+Europe,4,LOC,2022,3,15,,,,,fox
+Pearl Harbor,1,LOC,2022,3,15,21.35577485,-157.9991298,United States,Waipahu,fox
+Kyiv,1,LOC,2022,3,15,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Sviatoshynskyi,1,LOC,2022,3,15,50.4728241,30.32462466,Ukraine,,fox
+Ukraine,103,GPE,2022,3,16,49.4871968,31.2718321,Ukraine,,fox
+Russia,42,GPE,2022,3,16,64.6863136,97.7453061,Russia,,fox
+United States,16,GPE,2022,3,16,39.7837304,-100.445882,United States,,fox
+Mariupol,7,GPE,2022,3,16,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Kyiv,6,GPE,2022,3,16,50.4500336,30.5241361,Ukraine,Kyiv,fox
+China,5,GPE,2022,3,16,35.000074,104.999927,China,,fox
+United States,5,GPE,2022,3,16,39.7837304,-100.445882,United States,,fox
+United States,4,GPE,2022,3,16,39.7837304,-100.445882,United States,,fox
+Canada,3,GPE,2022,3,16,61.0666922,-107.991707,Canada,,fox
+Zaporizhzhia,3,GPE,2022,3,16,47.8507859,35.1182867,Ukraine,Zaporizhzhia,fox
+Taiwan,3,GPE,2022,3,16,23.9739374,120.9820179,Taiwan,,fox
+Ukraine,2,GPE,2022,3,16,49.4871968,31.2718321,Ukraine,,fox
+Chernihiv,1,GPE,2022,3,16,51.272593,31.7417235,Ukraine,,fox
+Lviv,1,GPE,2022,3,16,49.841952,24.0315921,Ukraine,Lviv,fox
+America,1,GPE,2022,3,16,,,,,fox
+Kyiv,3,LOC,2022,3,16,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Europe,1,LOC,2022,3,16,,,,,fox
+Pearl Harbor,1,LOC,2022,3,16,21.35577485,-157.9991298,United States,Waipahu,fox
+Ukraine,74,GPE,2022,3,17,49.4871968,31.2718321,Ukraine,,fox
+Russia,58,GPE,2022,3,17,64.6863136,97.7453061,Russia,,fox
+Mariupol,15,GPE,2022,3,17,47.0957648,37.5499621,Ukraine,Mariupol,fox
+United States,9,GPE,2022,3,17,39.7837304,-100.445882,United States,,fox
+Uzbekistan,7,GPE,2022,3,17,41.32373,63.9528098,Uzbekistan,,fox
+Germany,6,GPE,2022,3,17,51.0834196,10.4234469,Germany,,fox
+Belarus,5,GPE,2022,3,17,53.4250605,27.6971358,Belarus,,fox
+United States,4,GPE,2022,3,17,39.7837304,-100.445882,United States,,fox
+China,4,GPE,2022,3,17,35.000074,104.999927,China,,fox
+United Kingdom,3,GPE,2022,3,17,54.7023545,-3.2765753,United Kingdom,,fox
+Rosgvardia,3,GPE,2022,3,17,53.1999971,50.09633804,Russia,Samara,fox
+Moscow,3,GPE,2022,3,17,55.7504461,37.6174943,Russia,Moscow,fox
+Italy,2,GPE,2022,3,17,42.6384261,12.674297,Italy,Terni,fox
+Russia,2,GPE,2022,3,17,52.5161051,13.3834149,,,fox
+Slovakia,2,GPE,2022,3,17,48.7411522,19.4528646,Slovakia,Ľubietová,fox
+Lithuania,2,GPE,2022,3,17,55.3500003,23.7499997,Lithuania,,fox
+New York City,2,GPE,2022,3,17,40.7127281,-74.0060152,United States,New York,fox
+United States,1,GPE,2022,3,17,39.7837304,-100.445882,United States,,fox
+Ukraine,1,GPE,2022,3,17,49.4871968,31.2718321,Ukraine,,fox
+Europe,6,LOC,2022,3,17,,,,,fox
+Kyiv,3,LOC,2022,3,17,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Crimea,1,LOC,2022,3,17,45.28350435,34.20081878,Ukraine,,fox
+Theatre of Mariupol,1,LOC,2022,3,17,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Eastern Europe,1,LOC,2022,3,17,,,,,fox
+Mariupol,1,LOC,2022,3,17,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Ukraine,110,GPE,2022,3,18,49.4871968,31.2718321,Ukraine,,fox
+Russia,60,GPE,2022,3,18,64.6863136,97.7453061,Russia,,fox
+China,23,GPE,2022,3,18,35.000074,104.999927,China,,fox
+United States,14,GPE,2022,3,18,39.7837304,-100.445882,United States,,fox
+Moscow,10,GPE,2022,3,18,55.7504461,37.6174943,Russia,Moscow,fox
+United States,10,GPE,2022,3,18,39.7837304,-100.445882,United States,,fox
+Poland,9,GPE,2022,3,18,52.215933,19.134422,Poland,,fox
+Kyiv,6,GPE,2022,3,18,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Mariupol,5,GPE,2022,3,18,47.0957648,37.5499621,Ukraine,Mariupol,fox
+America,4,GPE,2022,3,18,,,,,fox
+Beijing,3,GPE,2022,3,18,39.906217,116.3912757,China,Beijing,fox
+United States,3,GPE,2022,3,18,39.7837304,-100.445882,United States,,fox
+Syria,3,GPE,2022,3,18,34.6401861,39.0494106,Syria,,fox
+Bulgaria,3,GPE,2022,3,18,42.6073975,25.4856617,Bulgaria,,fox
+Taiwan,2,GPE,2022,3,18,23.9739374,120.9820179,Taiwan,,fox
+Lviv,2,GPE,2022,3,18,49.841952,24.0315921,Ukraine,Lviv,fox
+Kyiv,5,LOC,2022,3,18,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Crimea,2,LOC,2022,3,18,45.28350435,34.20081878,Ukraine,,fox
+Crimea,1,LOC,2022,3,18,45.28350435,34.20081878,Ukraine,,fox
+Black Sea,1,LOC,2022,3,18,43.87280435,33.99381559,,,fox
+Ukraine,73,GPE,2022,3,19,49.4871968,31.2718321,Ukraine,,fox
+Russia,62,GPE,2022,3,19,64.6863136,97.7453061,Russia,,fox
+United States,11,GPE,2022,3,19,39.7837304,-100.445882,United States,,fox
+Mariupol,11,GPE,2022,3,19,47.0957648,37.5499621,Ukraine,Mariupol,fox
+China,8,GPE,2022,3,19,35.000074,104.999927,China,,fox
+United States,5,GPE,2022,3,19,39.7837304,-100.445882,United States,,fox
+Kyiv,5,GPE,2022,3,19,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Bulgaria,5,GPE,2022,3,19,42.6073975,25.4856617,Bulgaria,,fox
+Moscow,3,GPE,2022,3,19,55.7504461,37.6174943,Russia,Moscow,fox
+United States,3,GPE,2022,3,19,39.7837304,-100.445882,United States,,fox
+Beijing,2,GPE,2022,3,19,39.906217,116.3912757,China,Beijing,fox
+United States,2,GPE,2022,3,19,39.7837304,-100.445882,United States,,fox
+France,2,GPE,2022,3,19,46.603354,1.8883335,France,,fox
+Makariv,2,GPE,2022,3,19,50.4581787,29.80645794,Ukraine,,fox
+United Kingdom,2,GPE,2022,3,19,54.7023545,-3.2765753,United Kingdom,,fox
+Poland,1,GPE,2022,3,19,52.215933,19.134422,Poland,,fox
+Kyiv,3,LOC,2022,3,19,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Europe,2,LOC,2022,3,19,,,,,fox
+Azov Sea,2,LOC,2022,3,19,46.196729,36.73570655,Ukraine,,fox
+Central Asia,1,LOC,2022,3,19,,,,,fox
+Azov Sea,1,LOC,2022,3,19,46.196729,36.73570655,Ukraine,,fox
+Black Sea,1,LOC,2022,3,19,43.87280435,33.99381559,,,fox
+Black Sea,1,LOC,2022,3,19,43.87280435,33.99381559,,,fox
+Ukraine,66,GPE,2022,3,20,49.4871968,31.2718321,Ukraine,,fox
+Russia,52,GPE,2022,3,20,64.6863136,97.7453061,Russia,,fox
+Mariupol,12,GPE,2022,3,20,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Israel,8,GPE,2022,3,20,31.5313113,34.8667654,Israel,Lachish Regional Council,fox
+Moscow,5,GPE,2022,3,20,55.7504461,37.6174943,Russia,Moscow,fox
+United States,3,GPE,2022,3,20,39.7837304,-100.445882,United States,,fox
+United States,3,GPE,2022,3,20,39.7837304,-100.445882,United States,,fox
+China,2,GPE,2022,3,20,35.000074,104.999927,China,,fox
+Belarus,2,GPE,2022,3,20,53.4250605,27.6971358,Belarus,,fox
+Kharkiv,2,GPE,2022,3,20,49.9923181,36.2310146,Ukraine,Kharkiv,fox
+Kyiv,2,GPE,2022,3,20,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Luhansk,1,GPE,2022,3,20,49.2724587,38.9150477,Ukraine,,fox
+Belarus,1,GPE,2022,3,20,,,,,fox
+Nashville,1,GPE,2022,3,20,53.4250605,27.6971358,United States,,fox
+Europe,4,LOC,2022,3,20,,,,,fox
+Black Sea ,1,LOC,2022,3,20,43.87280435,33.99381559,,,fox
+Mariupol,1,LOC,2022,3,20,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Black Sea,1,LOC,2022,3,20,43.87280435,33.99381559,,,fox
+Ukraine,76,GPE,2022,3,21,49.4871968,31.2718321,Ukraine,,fox
+Russia,43,GPE,2022,3,21,64.6863136,97.7453061,Russia,,fox
+United States,13,GPE,2022,3,21,39.7837304,-100.445882,United States,,fox
+Kyiv,10,GPE,2022,3,21,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Mariupol,8,GPE,2022,3,21,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Poland,7,GPE,2022,3,21,52.215933,19.134422,Poland,,fox
+Kherson,4,GPE,2022,3,21,46.5421715,33.4079326,Ukraine,,fox
+Slovenia,4,GPE,2022,3,21,45.8133113,14.4808369,Slovenia,,fox
+Kharkiv,3,GPE,2022,3,21,49.9923181,36.2310146,Ukraine,Kharkiv,fox
+Moscow,3,GPE,2022,3,21,55.7504461,37.6174943,Russia,Moscow,fox
+United States,3,GPE,2022,3,21,39.7837304,-100.445882,United States,,fox
+Chernobyl,3,GPE,2022,3,21,51.2705477,30.2195609,Ukraine,Chernobyl,fox
+United Kingdom,3,GPE,2022,3,21,54.7023545,-3.2765753,United Kingdom,,fox
+America,2,GPE,2022,3,21,,,,,fox
+Kyiv,2,GPE,2022,3,21,22.9691591,88.4674179,India,Kalyani,fox
+Retroville,2,GPE,2022,3,21,50.5036116,30.41658099,Ukraine,Kyiv,fox
+Warsaw,2,GPE,2022,3,21,52.2319581,21.0067249,Poland,Warsaw,fox
+Kyiv,7,LOC,2022,3,21,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Europe,4,LOC,2022,3,21,,,,,fox
+Azov Sea,1,LOC,2022,3,21,46.196729,36.73570655,Ukraine,,fox
+Middle East,1,LOC,2022,3,21,,,,,fox
+Middle East,1,LOC,2022,3,21,,,,,fox
+Podilskyi district,1,LOC,2022,3,21,50.4895574,30.42850355,Ukraine,Kyiv,fox
+Zaporizhzhia,1,LOC,2022,3,21,47.8507859,35.1182867,Ukraine,Zaporizhzhia,fox
+Ukraine,66,GPE,2022,3,22,49.4871968,31.2718321,Ukraine,,fox
+Russia,47,GPE,2022,3,22,64.6863136,97.7453061,Russia,,fox
+United States,10,GPE,2022,3,22,39.7837304,-100.445882,United States,,fox
+United States,7,GPE,2022,3,22,39.7837304,-100.445882,United States,,fox
+Turkey,5,GPE,2022,3,22,38.9597594,34.9249653,Turkey,,fox
+Mariupol,4,GPE,2022,3,22,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Poland,3,GPE,2022,3,22,52.215933,19.134422,Poland,,fox
+Kyiv,3,GPE,2022,3,22,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Moscow,3,GPE,2022,3,22,55.7504461,37.6174943,Russia,Moscow,fox
+Italy,3,GPE,2022,3,22,42.6384261,12.674297,Italy,Terni,fox
+Chernobyl,2,GPE,2022,3,22,51.2705477,30.2195609,Ukraine,Chernobyl,fox
+Vatican,2,GPE,2022,3,22,41.903411,12.4528527,Vatican City,,fox
+Germany,2,GPE,2022,3,22,51.0834196,10.4234469,Germany,,fox
+United States,2,GPE,2022,3,22,39.7837304,-100.445882,United States,,fox
+Iran,2,GPE,2022,3,22,32.6475314,54.5643516,Iran,,fox
+Florida,2,GPE,2022,3,22,27.7567667,-81.4639835,United States,,fox
+Marmaris,2,GPE,2022,3,22,36.78932165,28.19184059,Turkey,,fox
+Donetsk,2,GPE,2022,3,22,48.0158753,37.8013407,Ukraine,Donetsk,fox
+Kyiv,11,LOC,2022,3,22,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Europe,7,LOC,2022,3,22,,,,,fox
+Black Sea,1,LOC,2022,3,22,43.87280435,33.99381559,,,fox
+America,1,LOC,2022,3,22,,,,,fox
+Ukraine,79,GPE,2022,3,23,49.4871968,31.2718321,Ukraine,,fox
+Russia,49,GPE,2022,3,23,64.6863136,97.7453061,Russia,,fox
+United States,12,GPE,2022,3,23,39.7837304,-100.445882,United States,,fox
+United States,9,GPE,2022,3,23,39.7837304,-100.445882,United States,,fox
+Poland,9,GPE,2022,3,23,52.215933,19.134422,Poland,,fox
+Brussels,7,GPE,2022,3,23,50.8465573,4.351697,Belgium,Brussels,fox
+United States,6,GPE,2022,3,23,39.7837304,-100.445882,United States,,fox
+Mariupol,4,GPE,2022,3,23,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Belgium,4,GPE,2022,3,23,50.6402809,4.6667145,Belgium,,fox
+Finland,4,GPE,2022,3,23,63.2467777,25.9209164,Finland,,fox
+France,4,GPE,2022,3,23,46.603354,1.8883335,France,,fox
+Afghanistan,4,GPE,2022,3,23,33.7680065,66.2385139,Afghanistan,,fox
+China,3,GPE,2022,3,23,35.000074,104.999927,China,,fox
+Moscow,3,GPE,2022,3,23,55.7504461,37.6174943,Russia,Moscow,fox
+Belarus,3,GPE,2022,3,23,53.4250605,27.6971358,Belarus,,fox
+Ohio,3,GPE,2022,3,23,40.2253569,-82.6881395,United States,,fox
+Tennessee,2,GPE,2022,3,23,35.7730076,-86.2820081,United States,,fox
+Latvia,2,GPE,2022,3,23,56.8406494,24.7537645,Latvia,Ogresgala pagasts,fox
+Europe,7,LOC,2022,3,23,,,,,fox
+Kyiv,4,LOC,2022,3,23,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Crimea,1,LOC,2022,3,23,45.28350435,34.20081878,Ukraine,,fox
+Baltic Sea,1,LOC,2022,3,23,56,18,,,fox
+Black Sea,1,LOC,2022,3,23,43.87280435,33.99381559,,,fox
+Ukraine,91,GPE,2022,3,24,49.4871968,31.2718321,Ukraine,,fox
+Russia,88,GPE,2022,3,24,64.6863136,97.7453061,Russia,,fox
+Brussels,19,GPE,2022,3,24,50.8465573,4.351697,Belgium,Brussels,fox
+China,17,GPE,2022,3,24,35.000074,104.999927,China,,fox
+United States,11,GPE,2022,3,24,39.7837304,-100.445882,United States,,fox
+Belgium,7,GPE,2022,3,24,50.6402809,4.6667145,Belgium,,fox
+Moscow,6,GPE,2022,3,24,55.7504461,37.6174943,Russia,Moscow,fox
+Mariupol,5,GPE,2022,3,24,47.0957648,37.5499621,Ukraine,Mariupol,fox
+United States,5,GPE,2022,3,24,39.7837304,-100.445882,United States,,fox
+United States,4,GPE,2022,3,24,39.7837304,-100.445882,United States,,fox
+Beijing,4,GPE,2022,3,24,39.906217,116.3912757,China,Beijing,fox
+Belarus,3,GPE,2022,3,24,53.4250605,27.6971358,Belarus,,fox
+Kyiv,3,GPE,2022,3,24,50.4500336,30.5241361,Ukraine,Kyiv,fox
+United Kingdom,3,GPE,2022,3,24,54.7023545,-3.2765753,United Kingdom,,fox
+Indonesia,2,GPE,2022,3,24,-2.4833826,117.8902853,Indonesia,,fox
+United Kingdom,2,GPE,2022,3,24,54.7023545,-3.2765753,United Kingdom,,fox
+Poland,2,GPE,2022,3,24,52.215933,19.134422,Poland,,fox
+West,3,LOC,2022,3,24,0.5090396,34.5731341,Kenya,,fox
+Europe,2,LOC,2022,3,24,,,,,fox
+Kyiv,2,LOC,2022,3,24,50.4500336,30.5241361,Ukraine,Kyiv,fox
+West 255th Street,2,LOC,2022,3,24,40.9025412,-73.9033332,United States,New York,fox
+Ukraine,69,GPE,2022,3,25,49.4871968,31.2718321,Ukraine,,fox
+Russia,60,GPE,2022,3,25,64.6863136,97.7453061,Russia,,fox
+United States,18,GPE,2022,3,25,39.7837304,-100.445882,United States,,fox
+Poland,18,GPE,2022,3,25,52.215933,19.134422,Poland,,fox
+United States,11,GPE,2022,3,25,39.7837304,-100.445882,United States,,fox
+Moscow,8,GPE,2022,3,25,55.7504461,37.6174943,Russia,Moscow,fox
+Turkey,6,GPE,2022,3,25,38.9597594,34.9249653,Turkey,,fox
+Georgia,5,GPE,2022,3,25,42.3154,43.3569,Georgia,,fox
+Brussels,4,GPE,2022,3,25,50.8465573,4.351697,Belgium,Brussels,fox
+Mariupol,4,GPE,2022,3,25,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Minnesota,3,GPE,2022,3,25,45.9896587,-94.6113288,United States,,fox
+Donetsk,3,GPE,2022,3,25,48.0158753,37.8013407,Ukraine,Donetsk,fox
+Winona,2,GPE,2022,3,25,43.9582272,-91.7807784,United States,,fox
+United Kingdom,2,GPE,2022,3,25,54.7023545,-3.2765753,United Kingdom,,fox
+Donbas,2,GPE,2022,3,25,48.1032,38.5921,Ukraine,Donbas,fox
+Rzeszow,2,GPE,2022,3,25,50.013064,22.01614346,Poland,Rzeszow,fox
+Kharkiv,2,GPE,2022,3,25,49.9923181,36.2310146,Ukraine,Kharkiv,fox
+Europe,4,LOC,2022,3,25,,,,,fox
+Kyiv,3,LOC,2022,3,25,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Black Sea,2,LOC,2022,3,25,43.87280435,33.99381559,,,fox
+Snake Island,2,LOC,2022,3,25,45.2543,30.2045,Ukraine,,fox
+Winona,1,LOC,2022,3,25,43.9582272,-91.7807784,United States,,fox
+Berdyansk,1,LOC,2022,3,25,46.755678,36.7887623,Ukraine,Berdiansk,fox
+Black Sea,1,LOC,2022,3,25,43.87280435,33.99381559,,,fox
+Snake Island,1,LOC,2022,3,25,45.2543,30.2045,Ukraine,,fox
+Ukraine,51,GPE,2022,3,26,49.4871968,31.2718321,Ukraine,,fox
+Russia,37,GPE,2022,3,26,64.6863136,97.7453061,Russia,,fox
+Poland,17,GPE,2022,3,26,52.215933,19.134422,Poland,,fox
+United States,11,GPE,2022,3,26,39.7837304,-100.445882,United States,,fox
+Warsaw,8,GPE,2022,3,26,52.2319581,21.0067249,Poland,Warsaw,fox
+Lviv,5,GPE,2022,3,26,49.841952,24.0315921,Ukraine,Lviv,fox
+Moscow,5,GPE,2022,3,26,55.7504461,37.6174943,Russia,Moscow,fox
+United States,5,GPE,2022,3,26,39.7837304,-100.445882,United States,,fox
+United States,3,GPE,2022,3,26,39.7837304,-100.445882,United States,,fox
+Germany,3,GPE,2022,3,26,51.0834196,10.4234469,Germany,,fox
+Minnesota,3,GPE,2022,3,26,45.9896587,-94.6113288,United States,,fox
+Winona,3,GPE,2022,3,26,43.9582272,-91.7807784,United States,,fox
+China,2,GPE,2022,3,26,35.000074,104.999927,China,,fox
+Japan,2,GPE,2022,3,26,36.5748441,139.2394179,Japan,Kiryu,fox
+Kherson,2,GPE,2022,3,26,46.5421715,33.4079326,Ukraine,,fox
+Qatar,2,GPE,2022,3,26,25.3336984,51.2295295,Qatar,,fox
+Budapest,2,GPE,2022,3,26,47.4979937,19.0403594,Hungary,Budapest,fox
+Hungary,2,GPE,2022,3,26,47.1817585,19.5060937,Hungary,Pusztavacs,fox
+Donbas,1,GPE,2022,3,26,48.1032,38.5921,Ukraine,Donbas,fox
+Europe,6,LOC,2022,3,26,,,,,fox
+Zaporizhzhia,1,LOC,2022,3,26,47.7796524,35.22310906,Ukraine,Zaporizhzhia,fox
+Kuril Islands,1,LOC,2022,3,26,23.80216945,90.39791172,Bangladesh,Dhaka,fox
+Eastern Military District,1,LOC,2022,3,26,59.3334319,137.3888272,Russia,,fox
+Ukraine,34,GPE,2022,3,27,49.4871968,31.2718321,Ukraine,,fox
+Russia,24,GPE,2022,3,27,64.6863136,97.7453061,Russia,,fox
+United States,9,GPE,2022,3,27,39.7837304,-100.445882,United States,,fox
+Poland,6,GPE,2022,3,27,52.215933,19.134422,Poland,,fox
+Finland,4,GPE,2022,3,27,63.2467777,25.9209164,Finland,,fox
+Turkey,3,GPE,2022,3,27,38.9597594,34.9249653,Turkey,,fox
+Moscow,3,GPE,2022,3,27,55.7504461,37.6174943,Russia,Moscow,fox
+Lviv,3,GPE,2022,3,27,49.841952,24.0315921,Ukraine,Lviv,fox
+Donbas,2,GPE,2022,3,27,48.1032,38.5921,Ukraine,Donbas,fox
+Mariupol,2,GPE,2022,3,27,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Donetsk,2,GPE,2022,3,27,48.0158753,37.8013407,Ukraine,Donetsk,fox
+France,2,GPE,2022,3,27,46.603354,1.8883335,France,,fox
+Warsaw,2,GPE,2022,3,27,52.2319581,21.0067249,Poland,Warsaw,fox
+United States,2,GPE,2022,3,27,39.7837304,-100.445882,United States,,fox
+Chemihiv,1,GPE,2022,3,27,,,,,fox
+Istanbul,1,GPE,2022,3,27,41.0091982,28.9662187,Turkey,Istanbul,fox
+Ukraine,1,GPE,2022,3,27,49.4871968,31.2718321,Ukraine,,fox
+Europe,3,LOC,2022,3,27,,,,,fox
+Kyiv,2,LOC,2022,3,27,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Zaporizhzhia ,1,LOC,2022,3,27,47.7796524,35.22310906,Ukraine,Zaporizhzhia,fox
+Ukraine,62,GPE,2022,3,28,49.4871968,31.2718321,Ukraine,,fox
+Russia,47,GPE,2022,3,28,64.6863136,97.7453061,Russia,,fox
+United States,12,GPE,2022,3,28,39.7837304,-100.445882,United States,,fox
+Poland,8,GPE,2022,3,28,52.215933,19.134422,Poland,,fox
+Mariupol,7,GPE,2022,3,28,47.0957648,37.5499621,Ukraine,Mariupol,fox
+United States,6,GPE,2022,3,28,39.7837304,-100.445882,United States,,fox
+Turkey,6,GPE,2022,3,28,38.9597594,34.9249653,Turkey,,fox
+Moscow,5,GPE,2022,3,28,55.7504461,37.6174943,Russia,Moscow,fox
+Germany,4,GPE,2022,3,28,51.0834196,10.4234469,Germany,,fox
+Kyiv,4,GPE,2022,3,28,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Slovenia,4,GPE,2022,3,28,45.8133113,14.4808369,Slovenia,,fox
+China,4,GPE,2022,3,28,35.000074,104.999927,China,,fox
+Donbas,3,GPE,2022,3,28,48.1032,38.5921,Ukraine,Donbas,fox
+Warsaw,3,GPE,2022,3,28,52.2319581,21.0067249,Poland,Warsaw,fox
+Serbia,3,GPE,2022,3,28,44.1534121,20.55144,Serbia,Topola Municipality,fox
+Ukraine,2,GPE,2022,3,28,49.4871968,31.2718321,Ukraine,,fox
+Italy,2,GPE,2022,3,28,42.6384261,12.674297,Italy,Terni,fox
+Kyiv,5,LOC,2022,3,28,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Kyiv,1,LOC,2022,3,28,50.4475353,30.5137489,Ukraine,Kyiv,fox
+Ukraine,100,GPE,2022,3,29,49.4871968,31.2718321,Ukraine,,fox
+Russia,70,GPE,2022,3,29,64.6863136,97.7453061,Russia,,fox
+United States,9,GPE,2022,3,29,39.7837304,-100.445882,United States,,fox
+Moscow,9,GPE,2022,3,29,55.7504461,37.6174943,Russia,Moscow,fox
+Kyiv,7,GPE,2022,3,29,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Germany,5,GPE,2022,3,29,51.0834196,10.4234469,Germany,,fox
+Turkey,5,GPE,2022,3,29,38.9597594,34.9249653,Turkey,,fox
+United States,5,GPE,2022,3,29,39.7837304,-100.445882,,,fox
+France,4,GPE,2022,3,29,46.603354,1.8883335,France,,fox
+Italy,4,GPE,2022,3,29,42.6384261,12.674297,Italy,Terni,fox
+Donbas,4,GPE,2022,3,29,48.1032,38.5921,Ukraine,Donbas,fox
+Poland,4,GPE,2022,3,29,52.215933,19.134422,Poland,,fox
+Istanbul,4,GPE,2022,3,29,41.0091982,28.9662187,Turkey,Istanbul,fox
+United Kingdom,3,GPE,2022,3,29,54.7023545,-3.2765753,United Kingdom,,fox
+Chernobyl,3,GPE,2022,3,29,51.2705477,30.2195609,Ukraine,Chernobyl,fox
+Mariupol,3,GPE,2022,3,29,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Ireland,2,GPE,2022,3,29,52.865196,-7.9794599,Ireland,,fox
+Kyiv,20,LOC,2022,3,29,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Azov Sea,1,LOC,2022,3,29,46.196729,36.73570655,Ukraine,,fox
+Snake Island,1,LOC,2022,3,29,45.2543,30.2045,Ukraine,,fox
+Black Sea,1,LOC,2022,3,29,43.87280435,33.99381559,,,fox
+Kiev,1,LOC,2022,3,29,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Europe,1,LOC,2022,3,29,,,,,fox
+Ukraine,85,GPE,2022,3,30,49.4871968,31.2718321,Ukraine,,fox
+Russia,47,GPE,2022,3,30,64.6863136,97.7453061,Russia,,fox
+United States,10,GPE,2022,3,30,39.7837304,-100.445882,United States,,fox
+China,9,GPE,2022,3,30,35.000074,104.999927,China,,fox
+Turkey,8,GPE,2022,3,30,38.9597594,34.9249653,Turkey,,fox
+United States,8,GPE,2022,3,30,39.7837304,-100.445882,United States,,fox
+Belarus,6,GPE,2022,3,30,53.4250605,27.6971358,Belarus,,fox
+Moscow,5,GPE,2022,3,30,55.7504461,37.6174943,Russia,Moscow,fox
+Mariupol,5,GPE,2022,3,30,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Poland,5,GPE,2022,3,30,52.215933,19.134422,Poland,,fox
+United States,4,GPE,2022,3,30,39.7837304,-100.445882,United States,,fox
+Chernihiv,4,GPE,2022,3,30,51.272593,31.7417235,Ukraine,,fox
+Kyiv,3,GPE,2022,3,30,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Chernobyl,3,GPE,2022,3,30,51.2705477,30.2195609,Ukraine,Chernobyl,fox
+Belgorod,3,GPE,2022,3,30,50.5955595,36.5873394,Russia,Belgorod,fox
+Wisconsin,2,GPE,2022,3,30,44.4308975,-89.6884637,United States,,fox
+Istanbul,2,GPE,2022,3,30,41.0091982,28.9662187,Turkey,Istanbul,fox
+Donetsk,2,GPE,2022,3,30,48.0158753,37.8013407,Ukraine,Donetsk,fox
+Kyiv,12,LOC,2022,3,30,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Starokostiantyniv,1,LOC,2022,3,30,49.756163,27.2087889,Ukraine,,fox
+Crimea,1,LOC,2022,3,30,45.28350435,34.20081878,Ukraine,,fox
+Chemniv,1,LOC,2022,3,30,,,,,fox
+Ukraine,51,GPE,2022,3,31,49.4871968,31.2718321,Ukraine,,fox
+Russia,44,GPE,2022,3,31,64.6863136,97.7453061,Russia,,fox
+United States,14,GPE,2022,3,31,39.7837304,-100.445882,United States,,fox
+Mariupol,8,GPE,2022,3,31,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Moscow,7,GPE,2022,3,31,55.7504461,37.6174943,Russia,Moscow,fox
+China,6,GPE,2022,3,31,35.000074,104.999927,China,,fox
+United States,5,GPE,2022,3,31,39.7837304,-100.445882,United States,,fox
+United Kingdom,3,GPE,2022,3,31,54.7023545,-3.2765753,United Kingdom,,fox
+Belgium,3,GPE,2022,3,31,50.6402809,4.6667145,Belgium,,fox
+United Kingdom,3,GPE,2022,3,31,54.7023545,-3.2765753,United Kingdom,,fox
+Turkey,3,GPE,2022,3,31,38.9597594,34.9249653,Turkey,,fox
+United Kingdom,2,GPE,2022,3,31,54.7023545,-3.2765753,United Kingdom,,fox
+Kyiv,2,GPE,2022,3,31,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Australia,2,GPE,2022,3,31,-24.7761086,134.755,Australia,,fox
+Britain,2,GPE,2022,3,31,54.31536155,-1.918023495,United Kingdom,,fox
+United Kingdom,1,GPE,2022,3,31,54.7023545,-3.2765753,United Kingdom,,fox
+United States,1,GPE,2022,3,31,39.7837304,-100.445882,United States,,fox
+Kylv,1,GPE,2022,3,31,58.5308806,15.0634994,Ukraine,,fox
+United States,1,GPE,2022,3,31,39.7837304,-100.445882,United States,,fox
+Kyiv,4,LOC,2022,3,31,50.4500336,30.5241361,Ukraine,Kyiv,fox
+Mariupol,2,LOC,2022,3,31,47.0957648,37.5499621,Ukraine,Mariupol,fox
+Europe,2,LOC,2022,3,31,,,,,fox
+Latin America,1,LOC,2022,3,31,,,,,fox
+Middle East,1,LOC,2022,3,31,,,,,fox
+Southeast Asia,1,LOC,2022,3,31,,,,,fox
+Africa,1,LOC,2022,3,31,,,,,fox
